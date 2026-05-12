@@ -35,9 +35,15 @@ A premium independent e-commerce station for luxury jewelry, focusing on elite U
   - Pagination (50 items/page).
   - Bulk discount setting (supports 2 decimal places).
   - Excel export/import.
+  - **Cloud Sync**: Integrated "Sync to Cloud" button that automates Git workflow (Add -> Commit -> Push) to trigger CI/CD.
   - **Language**: Stays in Chinese for the owner's convenience.
 
-### 3. Frontend Localization
+### 3. Git Automation (`src/app/api/admin/sync/route.ts`)
+- **Purpose**: Bridge between the Admin UI and GitHub.
+- **Implementation**: Uses `child_process.exec` with absolute Git paths to ensure compatibility with various Windows environments.
+- **Workflow**: Auto-commits changes to `site-content.json` with a timestamp and pushes to the `main` branch.
+
+### 4. Frontend Localization
 - **Language**: Public site is 100% English.
 - **Key Terminology**: "Boutique Price" has been replaced with **"Official Price"** across all components.
 
@@ -56,6 +62,13 @@ A premium independent e-commerce station for luxury jewelry, focusing on elite U
 ## 📅 Development History Highlights
 
 ### **2026-05-12**
+- **Cloud Sync Robustness**: Refactored the `sync` API to use a centralized `runGit` helper. This ensures every Git command (`add`, `commit`, `push`) automatically falls back to the absolute Git path if the system PATH is missing, resolving the intermittent "Command failed" errors.
+- **Auto-Log Policy**: Established a strict protocol for the AI assistant to update this `DEVELOPMENT_LOG.md` after **every** significant task without requiring a user reminder.
+- **Admin Fixes**: 
+  - Resolved `ReferenceError` caused by missing state definitions (`filterBrand`, etc.) during pagination implementation.
+  - Fixed "Empty Dashboard" bug by ensuring `loadData()` runs on component mount.
+  - Improved Sidebar UX with scrolling support to prevent action buttons from being hidden on small screens.
+- **Git Environment**: Initial patch for Git paths applied.
 - **Deployment**: Migrated from manual `.zip` uploads to **GitHub Actions Auto-Deploy**. Configured SSH Secrets and CI/CD pipeline.
 - **Admin Optimization**: Added pagination, decimal support for discounts, and image carousel sorting (up/down).
 - **UX**: Implemented "Pause on Hover" for all carousels and "Preload on Hover" for detail images.

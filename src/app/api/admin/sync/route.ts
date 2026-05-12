@@ -4,31 +4,35 @@ import { promisify } from 'util';
 
 const execPromise = promisify(exec);
 
+// Absolute path to git for Windows environments where PATH might be missing
+const GIT_PATH = 'C:\\Users\\41817\\AppData\\Roaming\\Accio\\pre-install\\906b605a3eb4\\git\\cmd\\git.exe';
+
+async function runGit(command: string) {
+  try {
+    // Try standard git first
+    return await execPromise(`git ${command}`);
+  } catch (err: any) {
+    // If not found, try absolute path
+    return await execPromise(`"${GIT_PATH}" ${command}`);
+  }
+}
+
 export async function POST() {
   try {
     // 1. Add all changes (especially site-content.json)
-    try {
-      await execPromise('git add .');
-    } catch (err: any) {
-      // Fallback for environment issues: try to use full path if simple 'git' fails
-      // This is a common issue in some Windows environments
-      await execPromise('C:\\Users\\41817\\AppData\\Roaming\\Accio\\pre-install\\906b605a3eb4\\git\\cmd\\git.exe add .');
-    }
+    await runGit('add .');
     
     // 2. Commit with timestamp
     const timestamp = new Date().toLocaleString();
     try {
-      await execPromise(`git commit -m "Admin Update: ${timestamp}"`);
+      await runGit(`commit -m "Admin Update: ${timestamp}"`);
     } catch (err: any) {
+      // If nothing to commit, we can continue to push (maybe previous commit failed to push)
       if (!err.message.includes('nothing to commit')) throw err;
     }
     
     // 3. Push to GitHub (triggers GitHub Actions)
-    try {
-      await execPromise('git push origin main');
-    } catch (err: any) {
-      await execPromise('C:\\Users\\41817\\AppData\\Roaming\\Accio\\pre-install\\906b605a3eb4\\git\\cmd\\git.exe push origin main');
-    }
+    await runGit('push origin main');
     
     return NextResponse.json({ success: true, message: 'Successfully synced to GitHub and triggered deployment.' });
   } catch (error: any) {
