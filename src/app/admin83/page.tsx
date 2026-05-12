@@ -54,6 +54,8 @@ export default function AdminPage() {
   const [searchTerm, setSearchTerm] = useState('');
   const [isSaving, setIsSaving] = useState(false);
   const [isSyncing, setIsSyncing] = useState(false);
+  const [syncProgress, setSyncProgress] = useState(0);
+  const [syncStatus, setSyncStatus] = useState('');
 
   const loadData = async () => {
     try {
@@ -152,20 +154,42 @@ export default function AdminPage() {
   const handleSync = async () => {
     if (isSyncing) return;
     setIsSyncing(true);
+    setSyncProgress(10);
+    setSyncStatus('正在保存本地更改...');
+    
     try {
-      // First save if needed
-      const saveRes = await saveSiteContent(data);
-      if (!saveRes?.success) throw new Error('同步前保存数据失败');
+      // 1. First save to ensure site-content.json is up to date
+      await handleSave();
+      setSyncProgress(30);
+      setSyncStatus('准备提交代码...');
+
+      // 2. Call sync API
+      setSyncStatus('正在推送至 GitHub (这可能需要 10-30 秒)...');
+      // Incremental fake progress for the push stage
+      const progressInterval = setInterval(() => {
+        setSyncProgress(prev => (prev < 90 ? prev + 2 : prev));
+      }, 500);
 
       const res = await fetch('/api/admin/sync', { method: 'POST' });
+      clearInterval(progressInterval);
       const result = await res.json();
       
       if (result.success) {
-        alert('同步成功！网站正在自动化更新，请在 2 分钟后查看线上效果。');
+        setSyncProgress(100);
+        setSyncStatus('同步成功！');
+        setTimeout(() => {
+          alert('同步成功！网站正在自动化更新，请在 2 分钟后查看线上效果。');
+          setSyncProgress(0);
+          setSyncStatus('');
+        }, 500);
       } else {
+        setSyncProgress(0);
+        setSyncStatus('');
         alert('同步失败: ' + result.error);
       }
     } catch (err: any) {
+      setSyncProgress(0);
+      setSyncStatus('');
       alert('同步过程中出现错误: ' + err.message);
     } finally {
       setIsSyncing(false);
@@ -763,7 +787,21 @@ export default function AdminPage() {
           <SidebarItem id="contacts" label="联系方式" icon={Phone} />
           <SidebarItem id="security" label="安全设置" icon={Shield} />
         </div>
-        <div className="p-4 border-t border-zinc-800 flex flex-col gap-2">
+        <div className="p-4 border-t border-zinc-800 flex flex-col gap-3">
+          {isSyncing && (
+            <div className="space-y-1.5 animate-in fade-in slide-in-from-bottom-2 duration-300">
+              <div className="flex justify-between items-center text-[9px] font-bold uppercase tracking-widest">
+                <span className="text-zinc-500">{syncStatus}</span>
+                <span className="text-white">{syncProgress}%</span>
+              </div>
+              <div className="h-[2px] w-full bg-zinc-800 overflow-hidden rounded-full">
+                <div 
+                  className="h-full bg-white transition-all duration-500 ease-out" 
+                  style={{ width: `${syncProgress}%` }}
+                />
+              </div>
+            </div>
+          )}
           <div className="flex items-center justify-between">
             <button onClick={handleSave} disabled={isSaving} className="bg-zinc-800 text-white font-bold text-[10px] px-4 py-2 rounded uppercase tracking-widest hover:bg-zinc-700 transition-all flex items-center gap-2"><Save size={12} /> 保存</button>
             <a href="/" className="text-zinc-500 hover:text-white"><LogOut size={18} /></a>
