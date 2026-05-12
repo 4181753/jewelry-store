@@ -27,8 +27,16 @@ export async function POST() {
     try {
       await runGit(`commit -m "Admin Update: ${timestamp}"`);
     } catch (err: any) {
-      // If nothing to commit, we can continue to push (maybe previous commit failed to push)
-      if (!err.message.includes('nothing to commit')) throw err;
+      // If nothing to commit, we can continue to push. 
+      // Checking for common "nothing to commit" indicators in different locales/formats
+      const isNothingToCommit = 
+        err.message.includes('nothing to commit') || 
+        err.message.includes('无提交内容') || 
+        err.message.includes('clean') ||
+        err.stdout?.includes('nothing to commit') ||
+        err.stdout?.includes('clean');
+        
+      if (!isNothingToCommit) throw err;
     }
     
     // 3. Push to GitHub (triggers GitHub Actions)
