@@ -23,22 +23,23 @@ export const ProductCard = ({ product }: { product: Product }) => {
   const [detailImgIndex, setDetailImgIndex] = useState(0);
   const [isPaused, setIsPaused] = useState(false);
 
+  const site = (content as any).site || {};
   const images = product.images && product.images.length > 0 ? product.images : ['/placeholder.jpg'];
   const hasMultipleImages = images.length > 2;
 
   // Auto-play for detail images (dynamic interval)
   React.useEffect(() => {
     let intervalId: NodeJS.Timeout;
-    const intervalTime = (content.site as any).productDetailInterval || 1000;
+    const intervalTime = site.productDetailInterval || 1000;
     if (showDetail && images.length > 1 && !isPaused) {
       intervalId = setInterval(() => {
         setDetailImgIndex((prev) => (prev + 1) % images.length);
       }, intervalTime);
     }
     return () => clearInterval(intervalId);
-  }, [showDetail, images.length, isPaused]);
+  }, [showDetail, images.length, isPaused, site.productDetailInterval]);
   
-  const contacts = (content.site.contacts || []).filter((c: any) => 
+  const contacts = (site.contacts || []).filter((c: any) => 
     !['Facebook', 'Zalo'].includes(c.label)
   );
 
@@ -46,7 +47,7 @@ export const ProductCard = ({ product }: { product: Product }) => {
   const sale = parseFloat(product.salePrice?.replace('$', '').replace(/,/g, '')) || 0;
   const discount = original > 0 ? Math.round(((original - sale) / original) * 100) : 0;
 
-  const conversion = content.site.conversion || {};
+  const conversion = site.conversion || {};
 
   return (
     <>
