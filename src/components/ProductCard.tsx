@@ -29,7 +29,7 @@ export const ProductCard = ({ product }: { product: Product }) => {
 
   // Auto-play for detail images (dynamic interval)
   React.useEffect(() => {
-    let intervalId: NodeJS.Timeout;
+    let intervalId: any;
     const intervalTime = site.productDetailInterval || 1000;
     if (showDetail && images.length > 1 && !isPaused) {
       intervalId = setInterval(() => {

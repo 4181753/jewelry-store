@@ -84,7 +84,7 @@ export default function AdminPage() {
   const [newProduct, setNewProduct] = useState<any>(null);
   const [editProduct, setEditProduct] = useState<any>(null);
   const [importPreview, setImportPreview] = useState<any[] | null>(null);
-  const [importProgress, setImportProgress] = useState({ currentIndex: -1, savedIds: [], failedCount: 0 });
+  const [importProgress, setImportProgress] = useState<{ currentIndex: number, savedIds: any[], failedCount: number }>({ currentIndex: -1, savedIds: [], failedCount: 0 });
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   // --- Filter & Sort Logic ---
