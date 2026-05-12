@@ -158,8 +158,22 @@ export default function AdminPage() {
     setSyncStatus('正在保存本地更改...');
     
     try {
-      // 1. First save to ensure site-content.json is up to date
-      await handleSave();
+      // 1. Force a tiny data change to ensure git always has something to push
+      const updatedData = { 
+        ...data, 
+        lastSync: new Date().toISOString() 
+      };
+      setData(updatedData);
+      
+      // Save the updated data
+      const response = await fetch('/api/admin/save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updatedData),
+      });
+      
+      if (!response.ok) throw new Error('保存失败');
+
       setSyncProgress(30);
       setSyncStatus('准备提交代码...');
 

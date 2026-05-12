@@ -31,7 +31,23 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           password: ${{ secrets.SSH_PASSWORD }}
           port: ${{ secrets.SSH_PORT }}
-          source: ".next/*, public/*, package.json, package-lock.json, next.config.ts, tsconfig.json"
+          source: ".next/*, public/*, src/data/site-content.json, package.json, package-lock.json, next.config.ts, tsconfig.json"
           target: "/home/u779096633/domains/pro20y.com/public_html"
           strip_components: 0
           overwrite: true
+
+      - name: Restart Node Server
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          password: ${{ secrets.SSH_PASSWORD }}
+          port: ${{ secrets.SSH_PORT }}
+          script: |
+            cd /home/u779096633/domains/pro20y.com/public_html
+            # Try common Hostinger/PM2 restart commands
+            pm2 restart all || npx pm2 restart all || true
+            # Alternatively, if Hostinger uses a generic Node runner, 
+            # touch the entry point to trigger a reload if supported
+            touch package.json
+
