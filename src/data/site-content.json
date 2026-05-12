@@ -1,0 +1,5381 @@
+{
+  "site": {
+    "name": "20 Years of Premium Craft Replication",
+    "tagline": "Crafting Excellence, Inspiring Confidence.",
+    "boutiqueSyncText": "Latest Official Collection | Synchronized Updates",
+    "password": "l5752396",
+    "conversion": {
+      "emotional": {
+        "title": "Original Mold, Original Craft",
+        "description": "20 Years of Premium Craft Replication,Every curve and detail is meticulously recreated from the official original piece, ensuring an authentic look and feel."
+      },
+      "technical": {
+        "title": "Uncompromising Quality",
+        "description": "Indistinguishable from the original. We use V-Gold heavy plating for years of color preservation and D-Color Moissanite that passes diamond testers."
+      },
+      "cta": {
+        "title": "Master Craftsman Limited Edition",
+        "description": "These are not factory-mass-produced items. Each piece is a limited stock from our master craftsmen. WhatsApp us for a real-shot video."
+      }
+    },
+    "contacts": [
+      {
+        "id": "whatsapp-1",
+        "label": "WhatsApp",
+        "href": "https://wa.me/18948678849",
+        "color": "#25D366",
+        "qrCode": "/uploads/1777950527071-whatsapp-qr.png"
+      },
+      {
+        "id": "fb-1",
+        "label": "Facebook",
+        "href": "https://facebook.com/yourpage",
+        "color": "#1877F2"
+      },
+      {
+        "id": "zalo-1",
+        "label": "Zalo",
+        "href": "https://zalo.me/yournumber",
+        "color": "#0068FF"
+      }
+    ],
+    "footer": [
+      {
+        "title": "Luxury Redefined",
+        "type": "text",
+        "items": [
+          "Premium 1:1 Craftsmanship Jewelry",
+          "Original Mold Reconstruction",
+          "Exclusive Boutique Quality for High-end Private Clients"
+        ]
+      },
+      {
+        "title": "Support",
+        "type": "links",
+        "items": [
+          "Order Tracking",
+          "Returns & Exchanges",
+          "Care Instructions"
+        ]
+      }
+    ],
+    "carousel": [
+      "/uploads/1778114351684-tt5.jpg",
+      "/uploads/1778062358063-tt3.jpg",
+      "/uploads/1778062744763-tt4.png",
+      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&q=80&w=2070"
+    ]
+  },
+  "brands": [
+    {
+      "id": "louis-vuitton",
+      "name": "Louis Vuitton",
+      "image": "https://www.louisvuitton.com/images/is/image/lv/U_BC_GIFT_MDAY_3_Feb26_DI3.jpg?wid=2400",
+      "description": "Louis Vuitton high-end jewelry collection."
+    },
+    {
+      "id": "fred",
+      "name": "FRED",
+      "image": "/uploads/1777627604166-remote-82639o.png",
+      "description": "FRED high-end jewelry collection."
+    },
+    {
+      "id": "bvlgari",
+      "name": "Bvlgari",
+      "image": "https://images.unsplash.com/photo-1531995811006-35cb42e1a022?auto=format&fit=crop&q=80&w=2070",
+      "description": "Bvlgari high-end jewelry collection."
+    },
+    {
+      "id": "cartier",
+      "name": "Cartier",
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&q=80&w=2070",
+      "description": "Cartier high-end jewelry collection."
+    }
+  ],
+  "products": [
+    {
+      "id": "1778043014066g2gft",
+      "brandId": "bvlgari",
+      "name": "Bvlgari TubogasGold&Steel Necklace",
+      "originalPrice": "7446",
+      "salePrice": "372.3",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043021095-remote-x9xqhd.png",
+        "/uploads/1778043021273-remote-cateej.png",
+        "/uploads/1778043021391-remote-cnq1vzm.png",
+        "/uploads/1778043021531-remote-k09y5.png",
+        "/uploads/1778043021648-remote-cd7xoh.png",
+        "/uploads/1778043021763-remote-bk4ku.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "17780430140661wj38",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "4526",
+      "salePrice": "226.3",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043021175-remote-1baa9f.png",
+        "/uploads/1778043021314-remote-aivx08.png",
+        "/uploads/1778043021444-remote-13154s.png",
+        "/uploads/1778043021570-remote-vc27qe.png",
+        "/uploads/1778043021690-remote-d32ur.png",
+        "/uploads/1778043021796-remote-lmfko.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066eccwj",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "4263.2",
+      "salePrice": "213.16",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043021214-remote-pygcnd.png",
+        "/uploads/1778043021355-remote-wvctrk.png",
+        "/uploads/1778043021489-remote-7mfnkk.png",
+        "/uploads/1778043021608-remote-4adyfla.png",
+        "/uploads/1778043021724-remote-72wwos.png",
+        "/uploads/1778043021983-remote-t3ke4n.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066begh6",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "4263.2",
+      "salePrice": "213.16",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043022146-remote-3k4xz.png",
+        "/uploads/1778043022252-remote-ywghyc.png",
+        "/uploads/1778043022424-remote-kys2f.png",
+        "/uploads/1778043022552-remote-0a3qdf.png",
+        "/uploads/1778043022737-remote-7m11ka.png",
+        "/uploads/1778043022860-remote-ssxyhl.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066r3st1",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "11066.8",
+      "salePrice": "553.34",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043022180-remote-azj3ja.png",
+        "/uploads/1778043022350-remote-ojfcmq.png",
+        "/uploads/1778043022469-remote-t6y2kl.png",
+        "/uploads/1778043022598-remote-5anf8.png",
+        "/uploads/1778043022781-remote-vvxb2g.png",
+        "/uploads/1778043022895-remote-fvrte.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "17780430140666hafk",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "29930",
+      "salePrice": "1496.5",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043022214-remote-28ecd.png",
+        "/uploads/1778043022385-remote-7w2m6l.png",
+        "/uploads/1778043022514-remote-a0qfn.png",
+        "/uploads/1778043022644-remote-x6tecn.png",
+        "/uploads/1778043022823-remote-bral5x.png",
+        "/uploads/1778043023034-remote-yzcotr.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "17780430140665nl6m",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "42048",
+      "salePrice": "2102.4",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043023226-remote-96acip.png",
+        "/uploads/1778043023374-remote-oqb61.png",
+        "/uploads/1778043023486-remote-eca63e.png",
+        "/uploads/1778043023598-remote-jeqto.png",
+        "/uploads/1778043023711-remote-z8ovh5.png",
+        "/uploads/1778043023817-remote-r23iml.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "17780430140665obza",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "4934.8",
+      "salePrice": "246.74",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043023265-remote-b8pngj.png",
+        "/uploads/1778043023412-remote-retzm.png",
+        "/uploads/1778043023519-remote-67qzms.png",
+        "/uploads/1778043023637-remote-03eby.png",
+        "/uploads/1778043023750-remote-ouj2eg.png",
+        "/uploads/1778043023970-remote-yeiqyw.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066b807a",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "6467.8",
+      "salePrice": "323.39",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043023301-remote-lps6tn.png",
+        "/uploads/1778043023446-remote-hftwe.png",
+        "/uploads/1778043023561-remote-8l9jlw.png",
+        "/uploads/1778043023675-remote-1jjw38.png",
+        "/uploads/1778043023785-remote-upof48.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066op4p5",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "4526",
+      "salePrice": "226.3",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043024184-remote-gdjaap.png",
+        "/uploads/1778043024351-remote-mjb5qa.png",
+        "/uploads/1778043024452-remote-hgpb7h.png",
+        "/uploads/1778043024554-remote-qj6h8.png",
+        "/uploads/1778043024670-remote-n17o2h.png",
+        "/uploads/1778043024793-remote-w7sfq.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066h73xk",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "4453",
+      "salePrice": "222.65",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043024285-remote-91kgfi.png",
+        "/uploads/1778043024386-remote-q9alyy.png",
+        "/uploads/1778043024485-remote-b5dz3f.png",
+        "/uploads/1778043024592-remote-w90hwj.png",
+        "/uploads/1778043024707-remote-h01ipf.png",
+        "/uploads/1778043024842-remote-i1arei.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066263np",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "4204.8",
+      "salePrice": "210.24",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043024318-remote-t1gt1q.png",
+        "/uploads/1778043024419-remote-kxf8di.png",
+        "/uploads/1778043024516-remote-3bblgo.png",
+        "/uploads/1778043024629-remote-4pzrq.png",
+        "/uploads/1778043024748-remote-w322.png",
+        "/uploads/1778043025024-remote-vfxtla.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066hlj12",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "4234",
+      "salePrice": "211.7",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043025236-remote-ryem7h.png",
+        "/uploads/1778043025403-remote-4izf9.png",
+        "/uploads/1778043025505-remote-u2ye6.png",
+        "/uploads/1778043025621-remote-g92uu.png",
+        "/uploads/1778043025748-remote-ekoj8k.png",
+        "/uploads/1778043025865-remote-h7guvu.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066zezk6",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "6905.8",
+      "salePrice": "345.29",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043025335-remote-w2ybm.png",
+        "/uploads/1778043025438-remote-wua0vw.png",
+        "/uploads/1778043025543-remote-uk6m9.png",
+        "/uploads/1778043025664-remote-w2pkzk2.png",
+        "/uploads/1778043025791-remote-5hbmtm.png",
+        "/uploads/1778043025904-remote-n46ki8.png"
+      ],
+      "createdAt": 1778043014066
+    },
+    {
+      "id": "1778043014066aj08g",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "6526.2",
+      "salePrice": "326.31",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043025369-remote-yej36n.png",
+        "/uploads/1778043025472-remote-ahpa2p.png",
+        "/uploads/1778043025582-remote-eb58i.png",
+        "/uploads/1778043025704-remote-tg6tkj.png",
+        "/uploads/1778043025832-remote-p75agu.png",
+        "/uploads/1778043026033-remote-iiua29.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067f0w5c",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "2744.8",
+      "salePrice": "16",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043026245-remote-z8rr5u.png",
+        "/uploads/1778043026425-remote-itcrq.png",
+        "/uploads/1778043026544-remote-raamos.png",
+        "/uploads/1778043026659-remote-m4qeys.png",
+        "/uploads/1778043026790-remote-hn16cr.png",
+        "/uploads/1778043027024-remote-5eg6m8.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140671pi96",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "5694",
+      "salePrice": "284.7",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043026351-remote-12927l.png",
+        "/uploads/1778043026462-remote-t0a6za.png",
+        "/uploads/1778043026583-remote-9kouts.png",
+        "/uploads/1778043026698-remote-dqxmnn.png",
+        "/uploads/1778043026887-remote-zauytro.png",
+        "/uploads/1778043027126-remote-idtx8.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "177804301406789z89",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "4526",
+      "salePrice": "226.3",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043026383-remote-h9xw5k.png",
+        "/uploads/1778043026504-remote-8h4jmt.png",
+        "/uploads/1778043026620-remote-yhi81.png",
+        "/uploads/1778043026737-remote-m6h8l8.png",
+        "/uploads/1778043026935-remote-4ngpeq.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140671hclk",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "4686.6",
+      "salePrice": "234.33",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043027322-remote-j70qjr.png",
+        "/uploads/1778043027420-remote-t6tjyb.png",
+        "/uploads/1778043027546-remote-vehd62.png",
+        "/uploads/1778043027649-remote-wjwlar.png",
+        "/uploads/1778043027768-remote-cgedrj.png",
+        "/uploads/1778043027874-remote-zl52lq.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067w3onv",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "2949.2",
+      "salePrice": "18",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043027356-remote-firrpf.png",
+        "/uploads/1778043027478-remote-zsved5.png",
+        "/uploads/1778043027579-remote-etd66j8.png",
+        "/uploads/1778043027690-remote-4mqfm.png",
+        "/uploads/1778043027823-remote-3madu.png",
+        "/uploads/1778043027915-remote-bxua5.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067ihj3y",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream MiniNecklace",
+      "originalPrice": "1941.8",
+      "salePrice": "12",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043027387-remote-7gb5ck.png",
+        "/uploads/1778043027514-remote-fjv5nc.png",
+        "/uploads/1778043027611-remote-8kuz1c.png",
+        "/uploads/1778043027722-remote-uqupna.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067dde7x",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "5694",
+      "salePrice": "284.7",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043028007-remote-efkhtr.png",
+        "/uploads/1778043028140-remote-9r7zd.png",
+        "/uploads/1778043028250-remote-5tae8.png",
+        "/uploads/1778043028402-remote-m3s54s.png",
+        "/uploads/1778043028534-remote-z0oa5.png",
+        "/uploads/1778043028875-remote-uvm8qe.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140672tvpz",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "6526.2",
+      "salePrice": "326.31",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043028042-remote-s78jj5.png",
+        "/uploads/1778043028180-remote-8f36h.png",
+        "/uploads/1778043028294-remote-bokuvr.png",
+        "/uploads/1778043028451-remote-buui9d.png",
+        "/uploads/1778043028569-remote-lxi0zz.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140671nml5",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "10731",
+      "salePrice": "536.55",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043028103-remote-h2nhbo.png",
+        "/uploads/1778043028216-remote-z8rwn4.png",
+        "/uploads/1778043028346-remote-415yrj.png",
+        "/uploads/1778043028494-remote-2lql9.png",
+        "/uploads/1778043028604-remote-i48qjk.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067iyyw1",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "13811.6",
+      "salePrice": "690.58",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043028953-remote-tqpwm.png",
+        "/uploads/1778043029092-remote-fhv1h7.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067gxja6",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "9314.8",
+      "salePrice": "465.74",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043028989-remote-tmjfz.png",
+        "/uploads/1778043029128-remote-xka7ih.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067uwsvl",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "10731",
+      "salePrice": "536.55",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043029022-remote-nmes1k.png",
+        "/uploads/1778043029396-remote-yh738h.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067l71z3",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "3022.2",
+      "salePrice": "18",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043029463-remote-pu3snf.png",
+        "/uploads/1778043029561-remote-8ay7cp.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067mxeop",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "9928",
+      "salePrice": "496.4",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043029496-remote-trqt1.png",
+        "/uploads/1778043029611-remote-9g5vsn.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067mkf0g",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "7285.4",
+      "salePrice": "364.27",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043029529-remote-6h4wqu.png",
+        "/uploads/1778043029671-remote-4ercaj.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140673pulh",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "3504",
+      "salePrice": "21",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043029759-remote-yi12qr.png",
+        "/uploads/1778043029905-remote-wwrpbj.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067nfsk2",
+      "brandId": "bvlgari",
+      "name": "Roma Amor Necklace",
+      "originalPrice": "9081.2",
+      "salePrice": "454.06",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043029831-remote-6gsrs.png",
+        "/uploads/1778043029936-remote-kztwsd.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "177804301406793po6",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "2511.2",
+      "salePrice": "15",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043029869-remote-k5o33.png",
+        "/uploads/1778043029996-remote-e2jw38.png",
+        "/uploads/1778043030128-remote-nib0ke.png",
+        "/uploads/1778043030162-remote-3skcb.png",
+        "/uploads/1778043030202-remote-a6x3o9.png",
+        "/uploads/1778043030241-remote-k95mah.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067wqo6k",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "8526.4",
+      "salePrice": "426.32",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043030455-remote-e7shz.png",
+        "/uploads/1778043030628-remote-52s2mk.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067dsxbe",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "5737.8",
+      "salePrice": "286.89",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043030561-remote-vaivfb.png",
+        "/uploads/1778043030665-remote-584b4d.png",
+        "/uploads/1778043030826-remote-plien.png",
+        "/uploads/1778043030888-remote-xs0pbo.png",
+        "/uploads/1778043030960-remote-ptvqx7m.png",
+        "/uploads/1778043031040-remote-rgasv.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067svagi",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "10731",
+      "salePrice": "536.55",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043030595-remote-31tehr.png",
+        "/uploads/1778043030791-remote-oiui4p.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067o2fh4",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "4803.4",
+      "salePrice": "240.17",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043031175-remote-fc1spq.png",
+        "/uploads/1778043031298-remote-ttqsd.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067uoju2",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "4102.6",
+      "salePrice": "205.13",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043031226-remote-90exp6.png",
+        "/uploads/1778043031332-remote-agljt.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067symj8",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "2642.6",
+      "salePrice": "16",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043031263-remote-fvz8o.png",
+        "/uploads/1778043031600-remote-t3ohvw.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067myen0",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "2642.6",
+      "salePrice": "16",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043031669-remote-hwx3lp.png",
+        "/uploads/1778043031768-remote-i1ebee.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140679bsa4",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "2423.6",
+      "salePrice": "242",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043031701-remote-beyz3.png",
+        "/uploads/1778043031833-remote-9j47mg.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067bpm08",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "2423.6",
+      "salePrice": "242",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043031734-remote-u8bwwi.png",
+        "/uploads/1778043031897-remote-2v55zq.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067tg6uu",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "8365.8",
+      "salePrice": "418.29",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043031995-remote-pi1yk.png",
+        "/uploads/1778043032146-remote-bwmi0q.png",
+        "/uploads/1778043032269-remote-soana.png",
+        "/uploads/1778043032533-remote-dnyuqh.png",
+        "/uploads/1778043032566-remote-i2e42k.png",
+        "/uploads/1778043032597-remote-b5v9g.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "177804301406744wid",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "4102.6",
+      "salePrice": "205.13",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043032028-remote-ep8rws.png",
+        "/uploads/1778043032177-remote-o17nbj.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140670nso1",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "7548.2",
+      "salePrice": "377.41",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043032100-remote-3jw1yq.png",
+        "/uploads/1778043032211-remote-5ncl1b.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140678n0mr",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "11066.8",
+      "salePrice": "553.34",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043032669-remote-6h2kys.png",
+        "/uploads/1778043032801-remote-huc0h.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067zqqi0",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "6847.4",
+      "salePrice": "342.37",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043032726-remote-m0ivk9.png",
+        "/uploads/1778043032839-remote-zxuzed.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140672g75g",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "2817.8",
+      "salePrice": "17",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043032764-remote-ae53v6.png",
+        "/uploads/1778043032898-remote-m0htsa.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140679lofq",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "8044.6",
+      "salePrice": "402.23",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043033027-remote-74m2c6.png",
+        "/uploads/1778043033129-remote-ofic9s.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067bvcnz",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "11329.6",
+      "salePrice": "566.48",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043033062-remote-mavsg6.png",
+        "/uploads/1778043033161-remote-9gh6xc.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "177804301406712trq",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "6175.8",
+      "salePrice": "308.79",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043033096-remote-yv0o0a.png",
+        "/uploads/1778043033289-remote-tjj0h.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067h92am",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "16425",
+      "salePrice": "821.25",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043033501-remote-16arw.png",
+        "/uploads/1778043033672-remote-ovzbq.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067qkv0l",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "16425",
+      "salePrice": "821.25",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043033598-remote-gs6fjl.png",
+        "/uploads/1778043033705-remote-udfssp.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067z8qea",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "29930",
+      "salePrice": "1496.5",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043033640-remote-z9jnk.png",
+        "/uploads/1778043033806-remote-ncy9jv.png",
+        "/uploads/1778043033869-remote-yepljb.png",
+        "/uploads/1778043033910-remote-laufk.png",
+        "/uploads/1778043033951-remote-btsbqg.png",
+        "/uploads/1778043033985-remote-2vy34d.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140678m0ok",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "6307.2",
+      "salePrice": "315.36",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034054-remote-ddy1jn.png",
+        "/uploads/1778043034220-remote-1j603i.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067cmgua",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "2423.6",
+      "salePrice": "242",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034151-remote-az5fnc.png",
+        "/uploads/1778043034253-remote-ht742h.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067v1ta3",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "8365.8",
+      "salePrice": "418.29",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034185-remote-wjtgjh.png",
+        "/uploads/1778043034379-remote-a5sejc.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140679pkip",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "12950.2",
+      "salePrice": "647.51",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034581-remote-yeaf1d.png",
+        "/uploads/1778043034688-remote-mil19h.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140679iyzu",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "5737.8",
+      "salePrice": "286.89",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034620-remote-zxnvua.png",
+        "/uploads/1778043034738-remote-612wd3.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "177804301406742ttl",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "4803.4",
+      "salePrice": "240.17",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034655-remote-1ivt7h.png",
+        "/uploads/1778043034800-remote-wjwnlu.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067pimjy",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "10366",
+      "salePrice": "518.3",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034899-remote-3kleja.png",
+        "/uploads/1778043035028-remote-g66lri.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067mv55t",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "6745.2",
+      "salePrice": "337.26",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034932-remote-4t8hg.png",
+        "/uploads/1778043035074-remote-d0idmp.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067kobik",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "5343.6",
+      "salePrice": "267.18",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043034989-remote-y4y08.png",
+        "/uploads/1778043035123-remote-mb3nbi.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067zfmpf",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "16717",
+      "salePrice": "835.85",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043035260-remote-o39o4.png",
+        "/uploads/1778043035375-remote-3zio8l.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067fhacl",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "7387.6",
+      "salePrice": "369.38",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043035302-remote-bz7k.png",
+        "/uploads/1778043035408-remote-gudxe8.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140673hk42",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "6803.6",
+      "salePrice": "340.18",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043035342-remote-dvaq1s.png",
+        "/uploads/1778043035675-remote-gywcna.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "177804301406721lec",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "17812",
+      "salePrice": "890.6",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043035744-remote-r1yfa.png",
+        "/uploads/1778043035848-remote-oy5i0s.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140670q7ex",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "17666",
+      "salePrice": "883.3",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043035779-remote-akfff16.png",
+        "/uploads/1778043035894-remote-7y4wz4.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067cmhiv",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "7504.4",
+      "salePrice": "375.22",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043035816-remote-x8fmfj.png",
+        "/uploads/1778043035963-remote-s3fhnn.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140672csyi",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "33142",
+      "salePrice": "1657.1",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043036039-remote-fizdxu.png",
+        "/uploads/1778043036153-remote-8cc0gr.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067qsyzb",
+      "brandId": "bvlgari",
+      "name": "Bvlgari Cabochon Necklace",
+      "originalPrice": "4964",
+      "salePrice": "248.2",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043036071-remote-l0vaq.png",
+        "/uploads/1778043036190-remote-korqne.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067k49ym",
+      "brandId": "bvlgari",
+      "name": "Bvlgari Cabochon Necklace",
+      "originalPrice": "4964",
+      "salePrice": "248.2",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043036102-remote-qpfosw.png",
+        "/uploads/1778043036247-remote-accu8n.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067dq4jw",
+      "brandId": "bvlgari",
+      "name": "Bvlgari Cabochon Necklace",
+      "originalPrice": "9008.2",
+      "salePrice": "450.41",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043036339-remote-3hov5n.png",
+        "/uploads/1778043036500-remote-984b3t.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067ipa4e",
+      "brandId": "bvlgari",
+      "name": "Bvlgari Cabochon Necklace",
+      "originalPrice": "9008.2",
+      "salePrice": "450.41",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043036435-remote-b7swq.png",
+        "/uploads/1778043036530-remote-87d8d7.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140674du0w",
+      "brandId": "bvlgari",
+      "name": "Bvlgari Tubogas Necklace",
+      "originalPrice": "26864",
+      "salePrice": "1343.2",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043036468-remote-91916e.png",
+        "/uploads/1778043036804-remote-clcuba.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067t2did",
+      "brandId": "bvlgari",
+      "name": "Bvlgari Tubogas Necklace",
+      "originalPrice": "21389",
+      "salePrice": "1069.45",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043036892-remote-7jpeen.png",
+        "/uploads/1778043037118-remote-6gbggf.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067w4uan",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "7139.4",
+      "salePrice": "356.97",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043036936-remote-14ai1.png",
+        "/uploads/1778043037150-remote-a87z49.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067l1l7o",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "20805",
+      "salePrice": "1040.25",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043037079-remote-9qq4y.png",
+        "/uploads/1778043037246-remote-mwmap.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067jd4do",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "23287",
+      "salePrice": "1164.35",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043037344-remote-wfff5e.png",
+        "/uploads/1778043037449-remote-fchxx6.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067uos6z",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "11548.6",
+      "salePrice": "577.43",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043037386-remote-0npje.png",
+        "/uploads/1778043037503-remote-imshhg.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067on3gk",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "10570.4",
+      "salePrice": "528.52",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043037418-remote-bpdt3i.png",
+        "/uploads/1778043037709-remote-zm3rr.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "177804301406790ena",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "45114",
+      "salePrice": "2255.7",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043037940-remote-zpy0lv.png",
+        "/uploads/1778043038037-remote-dsdv6.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067su9ni",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "10570.4",
+      "salePrice": "528.52",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043037972-remote-s134pa.png",
+        "/uploads/1778043038068-remote-8fwmbq.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067jp94c",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "10570.4",
+      "salePrice": "528.52",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043038006-remote-rcwwyq.png",
+        "/uploads/1778043038207-remote-fythz.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067fkx7n",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "49202",
+      "salePrice": "295",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043038274-remote-myncw2.png",
+        "/uploads/1778043038389-remote-gm45y.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140677m84r",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "45552",
+      "salePrice": "638",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043038323-remote-86m0w.png",
+        "/uploads/1778043038442-remote-s8h3d.png",
+        "/uploads/1778043038670-remote-2cjibk.png",
+        "/uploads/1778043038728-remote-nuf6n.png",
+        "/uploads/1778043038762-remote-3ge24.png",
+        "/uploads/1778043038823-remote-xojt0d.png"
+      ],
+      "createdAt": 1778043014067,
+      "discount": -98.6
+    },
+    {
+      "id": "177804301406746mbo",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "40880",
+      "salePrice": "2044",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043038358-remote-hi6wqo.png",
+        "/uploads/1778043038639-remote-iemaw8.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140675tzne",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "57670",
+      "salePrice": "346",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043038897-remote-78h288.png",
+        "/uploads/1778043039012-remote-dij90r.png",
+        "/uploads/1778043039149-remote-wqwrc6.png",
+        "/uploads/1778043039202-remote-bac5a.png",
+        "/uploads/1778043039243-remote-jduw2.png",
+        "/uploads/1778043039286-remote-yfnlfb.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067bnsh2",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "61320",
+      "salePrice": "368",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043038933-remote-xhiyd.png",
+        "/uploads/1778043039054-remote-d7fvwj.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140671zla9",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "11548.6",
+      "salePrice": "577.43",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043038977-remote-s2n0d9.png",
+        "/uploads/1778043039099-remote-f1nuo7.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067sczh0",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "9650.6",
+      "salePrice": "482.53",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043039362-remote-oim1ot.png",
+        "/uploads/1778043039465-remote-rofm8t.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140671u05c",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "16425",
+      "salePrice": "821.25",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043039396-remote-z26ccp.png",
+        "/uploads/1778043039536-remote-v8x24a.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067vrqdi",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "14673",
+      "salePrice": "733.65",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043039428-remote-6yqz2.png",
+        "/uploads/1778043039780-remote-758fw9.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067idim2",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "68620",
+      "salePrice": "412",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043039853-remote-5x2dck.png",
+        "/uploads/1778043039988-remote-83hbm.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067zzdgl",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "17593",
+      "salePrice": "879.65",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043039886-remote-q43mkh.png",
+        "/uploads/1778043040023-remote-4orv68.png",
+        "/uploads/1778043040114-remote-720fpl.png",
+        "/uploads/1778043040228-remote-vamnsb.png",
+        "/uploads/1778043040291-remote-g1xtr2.png",
+        "/uploads/1778043040361-remote-06bzcl.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067ym5b8",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "7548.2",
+      "salePrice": "377.41",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043039946-remote-7pbdl.png",
+        "/uploads/1778043040081-remote-i9lju8.png",
+        "/uploads/1778043040194-remote-yv57m9.png",
+        "/uploads/1778043040261-remote-zmaeaq.png",
+        "/uploads/1778043040321-remote-75sty2.png",
+        "/uploads/1778043040394-remote-gs9xqp.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067gtfrv",
+      "brandId": "bvlgari",
+      "name": "Serpenti Seduttori Necklace",
+      "originalPrice": "44092",
+      "salePrice": "2204.6",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043040492-remote-9pdasp.png",
+        "/uploads/1778043040624-remote-knmphj.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067obogx",
+      "brandId": "bvlgari",
+      "name": "Serpenti Seduttori Necklace",
+      "originalPrice": "63948",
+      "salePrice": "384",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043040529-remote-83fcyg.png",
+        "/uploads/1778043040656-remote-sg3avi.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "17780430140672yh2y",
+      "brandId": "bvlgari",
+      "name": "Serpenti Seduttori Necklace",
+      "originalPrice": "56356",
+      "salePrice": "338",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043040581-remote-2usc86.png",
+        "/uploads/1778043040931-remote-u6sc49.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067qky0a",
+      "brandId": "bvlgari",
+      "name": "Serpenti Necklace",
+      "originalPrice": "96360",
+      "salePrice": "482",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043040995-remote-imh8ai.png",
+        "/uploads/1778043041098-remote-k47gj.png"
+      ],
+      "createdAt": 1778043014067,
+      "discount": -99.5
+    },
+    {
+      "id": "1778043014067znns6",
+      "brandId": "bvlgari",
+      "name": "Serpenti Seduttori Necklace",
+      "originalPrice": "40004",
+      "salePrice": "2000.2",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043041030-remote-zm6t3o.png",
+        "/uploads/1778043041159-remote-jnm6h.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067avab7",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "78110",
+      "salePrice": "391",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043041064-remote-65nct6.png",
+        "/uploads/1778043041218-remote-ckhtkv.png"
+      ],
+      "createdAt": 1778043014067,
+      "discount": -99.5
+    },
+    {
+      "id": "1778043014067ln68m",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "82782",
+      "salePrice": "414",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043041303-remote-lie9qk.png",
+        "/uploads/1778043041450-remote-2fb5n.png"
+      ],
+      "createdAt": 1778043014067,
+      "discount": -99.5
+    },
+    {
+      "id": "17780430140673uz41",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "10468.2",
+      "salePrice": "523.41",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043041341-remote-dzd8hs.png",
+        "/uploads/1778043041483-remote-699kz.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "177804301406750w7x",
+      "brandId": "bvlgari",
+      "name": "Serpenti Tubogas Necklace",
+      "originalPrice": "45260",
+      "salePrice": "2263",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043041409-remote-m14no.png",
+        "/uploads/1778043041539-remote-gg0whi.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067jwno1",
+      "brandId": "bvlgari",
+      "name": "Serpenti Necklace",
+      "originalPrice": "97090",
+      "salePrice": "485",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043041805-remote-wit85s.png",
+        "/uploads/1778043041907-remote-6wff7q.png"
+      ],
+      "createdAt": 1778043014067,
+      "discount": -99.5
+    },
+    {
+      "id": "1778043014067ea4yb",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "76066",
+      "salePrice": "456",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043041840-remote-1eu1p4.png",
+        "/uploads/1778043041943-remote-pql7e.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067eixwp",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "105266",
+      "salePrice": "421",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043041875-remote-6rxvp4.png",
+        "/uploads/1778043042065-remote-frkjkq.png"
+      ],
+      "createdAt": 1778043014067,
+      "discount": -99.6
+    },
+    {
+      "id": "1778043014067v545q",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "77088",
+      "salePrice": "463",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043042139-remote-m0a6if.png",
+        "/uploads/1778043042239-remote-9ext8m.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067kjw2g",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "71686",
+      "salePrice": "430",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043042174-remote-5vpcso.png",
+        "/uploads/1778043042289-remote-redjma.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067y7mfj",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "184252",
+      "salePrice": "737",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043042206-remote-oh39sf.png",
+        "/uploads/1778043042348-remote-1rbjv.png"
+      ],
+      "createdAt": 1778043014067,
+      "discount": -99.6
+    },
+    {
+      "id": "1778043014067i7rnq",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "11650.8",
+      "salePrice": "582.54",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043042434-remote-mtf7wf.png",
+        "/uploads/1778043042581-remote-syyv1a.png",
+        "/uploads/1778043042683-remote-vdlses.png",
+        "/uploads/1778043042975-remote-bmkit.png",
+        "/uploads/1778043043043-remote-gcdeybe.png",
+        "/uploads/1778043043140-remote-pyuoj9.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014067d5qqp",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "12410",
+      "salePrice": "620.5",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043042469-remote-fncb1.png",
+        "/uploads/1778043042615-remote-yjs9bj.png",
+        "/uploads/1778043042943-remote-hofdzq.png",
+        "/uploads/1778043043009-remote-zpj78c.png",
+        "/uploads/1778043043085-remote-otlgxx.png",
+        "/uploads/1778043043260-remote-ncgcry9.png"
+      ],
+      "createdAt": 1778043014067
+    },
+    {
+      "id": "1778043014068iz6dh",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "3883.6",
+      "salePrice": "23",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043042539-remote-wx7nw.png",
+        "/uploads/1778043042651-remote-0mz77r.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068uvy2w",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "2949.2",
+      "salePrice": "18",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043043353-remote-y5ank.png",
+        "/uploads/1778043043454-remote-61w9a.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068r0cof",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "19856",
+      "salePrice": "992.8",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043043389-remote-t17xx.png",
+        "/uploads/1778043043488-remote-vw0f68.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068ec680",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "6102.8",
+      "salePrice": "305.14",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043043423-remote-9ful0q.png",
+        "/uploads/1778043043578-remote-i00dcr.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068zanfd",
+      "brandId": "bvlgari",
+      "name": "Roma Amor Necklace",
+      "originalPrice": "8730.8",
+      "salePrice": "436.54",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043043808-remote-f8s75.png",
+        "/uploads/1778043043914-remote-1mtj51b.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068puol0",
+      "brandId": "bvlgari",
+      "name": "BVLGARI BVLGARI Necklace",
+      "originalPrice": "6365.6",
+      "salePrice": "318.28",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043043845-remote-fc1l7h.png",
+        "/uploads/1778043043962-remote-lxpts.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068sg966",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "30806",
+      "salePrice": "1540.3",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043043880-remote-u5krz.png",
+        "/uploads/1778043044021-remote-kjyea.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068dk4e4",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "73292",
+      "salePrice": "440",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043044114-remote-o3ogv.png",
+        "/uploads/1778043044258-remote-vcm5l.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "17780430140682trzv",
+      "brandId": "bvlgari",
+      "name": "Serpenti Tubogas Necklace",
+      "originalPrice": "102492",
+      "salePrice": "410",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043044148-remote-bxmvds.png",
+        "/uploads/1778043044290-remote-kl0wv2.png"
+      ],
+      "createdAt": 1778043014068,
+      "discount": -99.6
+    },
+    {
+      "id": "17780430140687r2bf",
+      "brandId": "bvlgari",
+      "name": "Corona Necklace",
+      "originalPrice": "103952",
+      "salePrice": "416",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043044216-remote-xwaqu.png",
+        "/uploads/1778043044356-remote-rn67ar.png"
+      ],
+      "createdAt": 1778043014068,
+      "discount": -99.6
+    },
+    {
+      "id": "1778043014068i7nox",
+      "brandId": "bvlgari",
+      "name": "Serpenti Necklace",
+      "originalPrice": "198560",
+      "salePrice": "993",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043044486-remote-9obs5n.png",
+        "/uploads/1778043044582-remote-cjtfno.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068p02rl",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "3255.8",
+      "salePrice": "20",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043044519-remote-wkmg04.png",
+        "/uploads/1778043044613-remote-73p0hr.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068h1m2l",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "2949.2",
+      "salePrice": "18",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043044550-remote-3sr1w.png",
+        "/uploads/1778043044883-remote-62t6be.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068xsn46",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "8657.8",
+      "salePrice": "432.89",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043044950-remote-c2plu.png",
+        "/uploads/1778043045063-remote-wazspj.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068wvu5b",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "37814",
+      "salePrice": "1890.7",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043044996-remote-taf5bv.png",
+        "/uploads/1778043045115-remote-j1kuvj.png",
+        "/uploads/1778043045203-remote-xo3fya.png",
+        "/uploads/1778043045261-remote-8zrvg3.png",
+        "/uploads/1778043045300-remote-uv7jg.png",
+        "/uploads/1778043045361-remote-n923q.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068s1bml",
+      "brandId": "bvlgari",
+      "name": "Serpenti Necklace",
+      "originalPrice": "207174",
+      "salePrice": "1,036",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043045030-remote-o8ku2h.png",
+        "/uploads/1778043045172-remote-gh8m5h.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068lg6ah",
+      "brandId": "bvlgari",
+      "name": "Allegra Necklace",
+      "originalPrice": "73730",
+      "salePrice": "442",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043045439-remote-axyh9n.png",
+        "/uploads/1778043045538-remote-7n8005.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "17780430140685grlx",
+      "brandId": "bvlgari",
+      "name": "Allegra Necklace",
+      "originalPrice": "157972",
+      "salePrice": "632",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043045473-remote-o5zyp.png",
+        "/uploads/1778043045628-remote-u1cx.png"
+      ],
+      "createdAt": 1778043014068,
+      "discount": -99.6
+    },
+    {
+      "id": "17780430140687o1it",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "13052.4",
+      "salePrice": "652.62",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043045504-remote-3qi2tu.png",
+        "/uploads/1778043045844-remote-cdwy1e.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068fjqmp",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "11008.4",
+      "salePrice": "550.42",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043045931-remote-udsl1g.png",
+        "/uploads/1778043046124-remote-ity1vd.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068urmgp",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "16060",
+      "salePrice": "803",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043046061-remote-ky59kh.png",
+        "/uploads/1778043046157-remote-f3zb8p.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "17780430140683u97r",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "10570.4",
+      "salePrice": "528.52",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043046094-remote-gjbowc.png",
+        "/uploads/1778043046290-remote-wskdwi.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "177804301406882uvk",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "4861.8",
+      "salePrice": "243.09",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043046356-remote-wql4io.png",
+        "/uploads/1778043046461-remote-l7y85.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "17780430140685hoyd",
+      "brandId": "bvlgari",
+      "name": "Bvlgari Tubogas Necklace",
+      "originalPrice": "26864",
+      "salePrice": "1343.2",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043046396-remote-lcbjqb.png",
+        "/uploads/1778043046528-remote-u9qyx.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068ms02o",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "81176",
+      "salePrice": "406",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043046429-remote-hlrm4.png",
+        "/uploads/1778043046586-remote-vy60wr.png"
+      ],
+      "createdAt": 1778043014068,
+      "discount": -99.5
+    },
+    {
+      "id": "1778043014068x0bur",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "5183",
+      "salePrice": "259.15",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043046808-remote-eo26bq.png",
+        "/uploads/1778043046978-remote-tzxajb.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068hnsez",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "2642.6",
+      "salePrice": "16",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043046915-remote-rideok.png",
+        "/uploads/1778043047009-remote-bss5u.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068zvptu",
+      "brandId": "bvlgari",
+      "name": "Croce Pendant Necklace",
+      "originalPrice": "5562.6",
+      "salePrice": "278.13",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043046947-remote-2iarth.png",
+        "/uploads/1778043047153-remote-vftvf6.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "17780430140681zzhi",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "4861.8",
+      "salePrice": "243.09",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043047220-remote-tzkohs.png",
+        "/uploads/1778043047323-remote-dd7pp.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068jf5a2",
+      "brandId": "bvlgari",
+      "name": "B.zero1 Necklace",
+      "originalPrice": "31244",
+      "salePrice": "1562.2",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043047259-remote-0id45v.png",
+        "/uploads/1778043047376-remote-qqu6n8.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068stj3y",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "6307.2",
+      "salePrice": "315.36",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043047289-remote-xwkkbq.png",
+        "/uploads/1778043047439-remote-jusjvq.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068vasqg",
+      "brandId": "bvlgari",
+      "name": "Divas' Dream Necklace",
+      "originalPrice": "30222",
+      "salePrice": "1511.1",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043047531-remote-0mxfv.png",
+        "/uploads/1778043047644-remote-zvu757.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068pcavn",
+      "brandId": "bvlgari",
+      "name": "Vimini Necklace",
+      "originalPrice": "42048",
+      "salePrice": "2102.4",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043047567-remote-0l7pea.png",
+        "/uploads/1778043047691-remote-i3vr87.png",
+        "/uploads/1778043047994-remote-bs7sy.png",
+        "/uploads/1778043048061-remote-9i6j09.png",
+        "/uploads/1778043048103-remote-yuqsl.png",
+        "/uploads/1778043048153-remote-2j4swo.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778043014068yk75j",
+      "brandId": "bvlgari",
+      "name": "FioreverFiorever Necklace",
+      "originalPrice": "133006",
+      "salePrice": "532",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043047604-remote-i6cuoh.png",
+        "/uploads/1778043047962-remote-pxq27.png"
+      ],
+      "createdAt": 1778043014068,
+      "discount": -99.6
+    },
+    {
+      "id": "17780430140682wqvi",
+      "brandId": "bvlgari",
+      "name": "Serpenti Necklace",
+      "originalPrice": "107748",
+      "salePrice": "539",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043048223-remote-zxz24.png",
+        "/uploads/1778043048290-remote-nzkcqm.png"
+      ],
+      "createdAt": 1778043014068,
+      "discount": -99.5
+    },
+    {
+      "id": "1778043014068ew5zl",
+      "brandId": "bvlgari",
+      "name": "Serpenti Viper Necklace",
+      "originalPrice": "2306.8",
+      "salePrice": "231",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1778043048258-remote-fz3h2.png",
+        "/uploads/1778043048321-remote-p4rtz.png"
+      ],
+      "createdAt": 1778043014068
+    },
+    {
+      "id": "1778037563970jghw2",
+      "brandId": "cartier",
+      "name": "LOVE Unlimited Bracelet, flexible",
+      "originalPrice": "9400",
+      "salePrice": "470",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw49b1109d/images/large/03f61c4c04f25c5baba0da2508e8c061.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw85b10f9b/images/large/f6aaf2793419589e9b1e4e87810739c4.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwaa3fdd54/images/large/7551d9867a52576dbe545b019d730363.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw789c1182/images/large/bf8e20b257f751f29e9f66061f7f71b6.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw3a17eba0/images/large/639432d28a6b5ad18f88feaf05b17c5b.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0fdebc15/images/large/ad4be70f2a745261a4fdd4ded9640e72.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563970
+    },
+    {
+      "id": "1778037563970lc3yt",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, medium model, 4 diamonds",
+      "originalPrice": "11000",
+      "salePrice": "550",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwcc3cd809/images/large/1f069db114f85d7eafd6153d980d0faf.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw6c3f06f2/images/large/39cf25e75a995ac7aef9d13fb5b4f782.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwa6a43eb2/images/large/8906b9f795c250f5aaa8000ceea4536d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwa352d3da/images/large/9a413127f730593bac559c324cb9bb79.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw5c2d1272/images/large/1d7a682eef325b06bba7248f26bd7732.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw29dffc8d/images/large/c9c9e6290a3b525396c80ad24c37dc7e.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563970
+    },
+    {
+      "id": "1778037563970ydr62",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model, brushed",
+      "originalPrice": "7950",
+      "salePrice": "397.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1eb81aa4/images/large/e8e381787472547d9cc8ad9fae6ef62f.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd1eecf43/images/large/bf9fcf30bb24599cabfc2b7c59593377.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfbabd4d9/images/large/64197a6774315b0c9487a5ba74c560b7.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1b918965/images/large/ff4f78f9347e599b8991ebe789b5cbf5.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwcdaf9e26/images/large/e155b126427555b68377d9873de9420f.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0792494b/images/large/d5e8f109cde456ed9f2e05cec56320b1.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563970
+    },
+    {
+      "id": "1778037563970xobgq",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model",
+      "originalPrice": "5300",
+      "salePrice": "265",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw82e12e1c/images/large/402b40c50af55d028578998daaaa670e.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0ab3fe2a/images/large/509ba9026c88568d8932f634c954075a.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw5b2f05f2/images/large/3d4e5b5e7db15090bc49c3c9dc388ba8.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw7f2a755f/images/large/1fa341e7060c5739b69171b47d272685.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw3dd9ffaa/images/large/986581d3bed955e3817e96fd7bbf1aa6.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw70ff02e9/images/large/7d11afd3f5bd5b7d8a67d87cebec54ae.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563970
+    },
+    {
+      "id": "1778037563970fc39i",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain",
+      "originalPrice": "2130",
+      "salePrice": "213",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw16c624de/images/large/f67e05e68e14529aafe0cdb69e2f0cd6.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd6bc21c5/images/large/6b1430873e8055179b17a7ea74b95d02.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw52fae3de/images/large/df312c1ed70f5943835e5095d15ca348.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfc9ea9b6/images/large/1508680767965f63b1cdebf328a472f5.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfeb4ae64/images/large/7785a21b44c7543ea9f51ac1547b47e7.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd85db7ad/images/large/b4bf1522e8a95b8aaca7ab75a7c5486e.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563970
+    },
+    {
+      "id": "1778037563970h4rsj",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, 2 diamonds",
+      "originalPrice": "2560",
+      "salePrice": "15",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw6c9135cb/images/large/c9470befe76f5271afa8c5a93e366fd9.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf3408950/images/large/59e7244b03ff50419976b78247b4630c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw29025890/images/large/cecd3750ad345e7f9b27c50b19330668.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfc977246/images/large/934f1cc185985e35bc839f97de63e141.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw114f240d/images/large/bbf73d4914e75fe78a37504b8f7f518c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw86ccc8e8/images/large/5f07efaa53e95f24894e03942ac9b80b.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971hqd9e",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model",
+      "originalPrice": "8510",
+      "salePrice": "425.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw02015267/images/large/6615ebb9838d52c58d661c2d798797d7.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw7ff6f4c6/images/large/9a0c3f9d30675545b07f7997b0cfeff8.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw070a3b38/images/large/48f400a458b0543a8db0d4c5a5d4e768.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwbd784092/images/large/5980ee03b3d75474bcc9d9e619db8952.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwcdad7ed5/images/large/8caca9967fa75e55b81944dc7d8fb516.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw45400643/images/large/13573afa419d5b148766a8a0d8dfa64d.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971e8ark",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model",
+      "originalPrice": "5650",
+      "salePrice": "282.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe4647ff9/images/large/802eb41b054b5fb985a39a3b67bdc410.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw486455f0/images/large/a3b1bdf525975b5888a14db38f344b40.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwab62f8ae/images/large/cda1b55dc69a53c587c3a565f32b3a50.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0c2f0b9f/images/large/3afa5229223b57adb4c18ac9f3e09588.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfd0d7cd8/images/large/5b938bd4bef05a0d898fc2fdea73b6e8.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwac93e9a4/images/large/842ce9aa8f665310a62c9c54ca06dc98.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971uk4cw",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain",
+      "originalPrice": "2270",
+      "salePrice": "227",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf16dac92/images/large/f4ab6b18cf1f5851b68a53989839ab2e.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc23fd36d/images/large/bdedef591de55ef496d890519b372b3c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwee53dfde/images/large/7b3c3bb71d4c5a9da42215b10f85f74a.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc8190096/images/large/f6b9e917f9e6568fbb4d4e4859e33c34.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw6c647b54/images/large/e61754504d9f5e55b57466c9a929d831.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwbb2ec39e/images/large/266ba74b9ab851d1be778bc9a0225178.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971hb08w",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model",
+      "originalPrice": "5300",
+      "salePrice": "265",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw57aa8dc0/images/large/343099dbc351527da83f042e6f3cb6ff.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw2aca0404/images/large/c8f8af47cd625ba4b6e3cffc81088df4.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1dc16897/images/large/881141d94a2d51f983a6f5c819760583.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw76adfe5e/images/large/9fcc53b33daa558fbe2fac1d9b296b3d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1b60518d/images/large/e6f6d25ff28958f58fa60319c502f378.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe9daa77b/images/large/f9dc0cd959d95ef7b552be1738639ce8.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971qbdck",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, 6 diamonds",
+      "originalPrice": "8050",
+      "salePrice": "402.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwdc0a40cd/images/large/940946e9db6356679556b8d2fee905c0.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw95518b00/images/large/10df082f5467587e8cb622588bf965ae.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc5d3f6bd/images/large/c3fae0fb81ee5889a704e203955f9236.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw7cc49f27/images/large/aaa2b6ed1a2656cfb58368f9d0e03b75.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4fb96a8e/images/large/937634cbabc855cebfc05652dbdc2bb6.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd9c2be84/images/large/0f80c101dbb65fe699ef4e10ba660c8e.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971eh6ih",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model",
+      "originalPrice": "7950",
+      "salePrice": "397.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw18f116e7/images/large/8c77aa1d2fb75ca19a78bd8393c44394.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw5412be7e/images/large/26af9aba6c6c5bee84d47741ebaadfd6.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8559ada9/images/large/b27f59a64cfc59f6a99202b0c6164ad9.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw3eb7f217/images/large/bbfd24f58b595afa872151033d3ce491.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4a985b55/images/large/c8caa50692ed550fa2b620038bb22f38.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwbe86e3ec/images/large/8d5613bd302559cf98809b3ad880c439.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971egf2c",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, paved",
+      "originalPrice": "29900",
+      "salePrice": "1495",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4853e214/images/large/be20ebe1ce27551f99bd7ad782d298bf.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwef42ee8f/images/large/4f34a696d8485775bd7bfbb405b050c4.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw360dec74/images/large/1611acc1488e5836b4585c4c870db7db.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw7d7fe539/images/large/b4540355983a50df9fd01bd12fbaf82d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw52d208d8/images/large/5aabc729b35852fd8cddeda002d13d47.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfc7355ce/images/large/5dd492405554522bb3c1631b2ace4f3f.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971yroje",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model,10 diamonds",
+      "originalPrice": "19200",
+      "salePrice": "960",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw76f484a6/images/large/665e912e9ada53d7a9c67af68e894491.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw61c50d62/images/large/22bd0e9f73e85bd889ef16b762d3018a.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1b5b1a46/images/large/03b0e5d5d6e65be2aabc4f1d1c2f00c4.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw487a2277/images/large/a224c80345d05c10aab904e5a77b7236.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwcc593430/images/large/1c0c2cc2fb8851ab9c5b1f710d167fcb.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4e268f06/images/large/1ca64b393211500486dee80c8b724d98.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971r3zvs",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain",
+      "originalPrice": "2130",
+      "salePrice": "213",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw63ba3cfa/images/large/42a9705bfe295f87a2cbf3967ea1952a.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0d4973c8/images/large/5f643c3d87ea5c7a86dfcfed6ee10570.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe2ad34c3/images/large/5010431f06a65a96840a0b93fdd8825f.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw81c42348/images/large/7cc34474163b5ea5b86f0441c497bf31.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf98988c9/images/large/a1937032f5af5efda92c6b74a9edef86.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc117bcc0/images/large/fb7f0e37a4d652d2a9fd5f29f7d74914.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971xv4rp",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, half-paved",
+      "originalPrice": "4850",
+      "salePrice": "242.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe63831ad/images/large/318d411263c05e098ba6e67d1e629911.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw620aca00/images/large/6c86042b74c55e38a7735ec7df494716.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf02bca22/images/large/b9df2368aadc50e29e1777a3186216f0.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw3171a5ad/images/large/c98b1f431eb45224a24c9eacc8e864d3.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8a9b4d88/images/large/5c05b883c0a65f0ebc25ee5b320221d8.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe822bd1a/images/large/3beb3cb8f4505fc981bed73753dd529c.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971ia19t",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, 6 diamonds",
+      "originalPrice": "8600",
+      "salePrice": "430",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw9a0113c1/images/large/de0545d2678053c8a267ab41738f1d2d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe0585afa/images/large/9a5bfbe1a88a59a7859693dd08fb3479.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwcef43ace/images/large/e9fc8e1614e8538488ab4bffe5276abb.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd01664f3/images/large/6e00f3014f3c5305b8e6b2c36890f3f9.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1146a771/images/large/48b5f277ad6051f1b8c2d1856b261fd4.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw5536668b/images/large/6b23192c44be564d9f8d4210572af56c.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971fafel",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model, brushed, 4 diamonds",
+      "originalPrice": "13100",
+      "salePrice": "655",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0969dec3/images/large/18225fb2a32e51f2a913c4a4b132d14f.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw6b4e2251/images/large/a7c37765b27350e589434871584e5911.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw36809a1b/images/large/63fc5f08dd3d5289ac05a1da14c85d5c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc063bdbe/images/large/1c14550e2f0a55039d13fffa2a91b624.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4084485a/images/large/38b062ae5fa25fe6a5eecb7ff4ab6dd0.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfbb254db/images/large/e47675fd0ece5bbb8b42fa6ad336ea95.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971nkevp",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, 2 diamonds",
+      "originalPrice": "2560",
+      "salePrice": "15",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw21e9b493/images/large/55fe10f81953562d99401e861176eff1.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe5a3ad44/images/large/db0ea8a6cb98519293798ba093aaeac9.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw59421bda/images/large/13ce8531102d5c5092b8383dcd2c487d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwcf131db8/images/large/3056a2c4eb5b5163b5556b4e170bb5cf.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc6f12cf2/images/large/1de010ecd3ff56cc8dbbf21008f8e5db.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw986c4ea1/images/large/2d0668eaf2ee5a62922de000a8906ee4.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "17780375639719fsb2",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model, brushed, 4 diamonds",
+      "originalPrice": "13100",
+      "salePrice": "655",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4f2d1da0/images/large/6457790db23a5b108e667c4c6d6befff.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8110e300/images/large/c9558858d6075f5d87126e3e2e2f6bba.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwa6a43eb2/images/large/8906b9f795c250f5aaa8000ceea4536d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw32e3c9e5/images/large/894296701a9150c8bf7d9752a29032fb.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4803a95c/images/large/e0f7a91746c85bcea1f5007ca7a68fc0.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfbabd4d9/images/large/64197a6774315b0c9487a5ba74c560b7.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971avtde",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, 2 diamonds",
+      "originalPrice": "2740",
+      "salePrice": "16",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0e35faa2/images/large/5f03ad01dcae5ae59912f81a7509b25c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwdd249b73/images/large/3a3f59498d60554593b42972ce97e939.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw35ad2287/images/large/b02fcfd2e3b25fc8a4481fec09144866.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf48332ec/images/large/7f0038262c285226aef11c0919babf87.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw594fea56/images/large/ef8aba8703b6568a9eef28e4dde3ac77.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw6882d24e/images/large/b0cd2d1f5cb2597e92072df0713ab782.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "177803756397106sib",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, paved",
+      "originalPrice": "5950",
+      "salePrice": "297.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf199c339/images/large/ab02e8b5aed55eb18031e8027124fb09.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8fa7d435/images/large/decec1b4436f5c60934f3c5b1b80390b.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw068e966c/images/large/2969c6e261405d5d8c55063d753d6b54.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1ccc183a/images/large/1c0ca57e3d7758f8a24caf40464973d3.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe28120f8/images/large/fcf63337ec7f5839a1df92895bf4168e.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw31f33efb/images/large/b93aefee181a5b23b6bd3419a799c5fe.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971oq6nl",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model, 4 diamonds",
+      "originalPrice": "14000",
+      "salePrice": "700",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw19be9747/images/large/6a7fee3371a55763b9cb96ab4a5c5f5f.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw9e86f95e/images/large/bc8e4d32eeef53d583a9b48af4f8d16f.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4d268455/images/large/c1c04447b1c750d3ac62f1e4ae60e24c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw655f8436/images/large/ad2fc7c446d25bd8a788e15b90f48307.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4ae156da/images/large/077d87a5434f50609f0c4b97778b6b5c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw6219720c/images/large/b2d38599087d56ce8fe3c5d0cbb649b8.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "17780375639712t715",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, half-paved",
+      "originalPrice": "5200",
+      "salePrice": "260",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw55a4c18e/images/large/69176be28c1a5e4e9e11e146f49763d3.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw339dedbb/images/large/e8ae2d32da3d56e48212670c90d2508a.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw32c27e00/images/large/410a9a6d93515a279a9a4228ffb31603.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf2d1b853/images/large/497b11ed6ad458c3a2d478ce64c3c83a.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwba067723/images/large/543db5644eb7589eb1f83422b4cd208e.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw27a74f40/images/large/083f478799105c0f8331f54a0e6220da.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971p2i1a",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, paved",
+      "originalPrice": "32000",
+      "salePrice": "1600",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw57741bc6/images/large/c19fe102089f5a06a82f0260f59c03c2.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwa3f8c1b2/images/large/a75c69efd56d5c818d61b8365850a34c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwb76bf9e8/images/large/2c3be9261a2d525fb7451ee408ffe033.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw41e136d1/images/large/3c2fd9f0215e56bda0993ccbedcc249b.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw23da8cbf/images/large/fbdb6613a2b45ef78fc559c624514664.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw43837bed/images/large/7d7dfc75dbde536c939d99ed8c493e8d.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "17780375639710fcmj",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, 10 diamonds",
+      "originalPrice": "11700",
+      "salePrice": "585",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfc5e176d/images/large/8e1d34a5261d50cb86ed3e359603eb67.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw101e192b/images/large/c82b54d98fa75136b1c95f0ce8323e85.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwd121484d/images/large/de9bf5389acb5796af1ec77dfdb1f664.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwa44d0230/images/large/c17ab850dbcb54f0bb3d98e021e08bd2.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc40cb2c9/images/large/2ce87023876f510b9eceeb57f0cee929.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf748d409/images/large/f024c2a9af2f55a1999a22473e15058e.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "17780375639712lcgz",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model,10 diamonds",
+      "originalPrice": "20500",
+      "salePrice": "1025",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc1fbe1b5/images/large/cd838c13adf2554e8acba1d72f7daa10.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwba02ed26/images/large/d647287d1c745572934a9a143eef31da.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw27d4f76c/images/large/451d723a0d005a8fa627009103dcf24e.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw485c05d0/images/large/247f973730af5145b4129ab4834d8c4d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw3fafb4f1/images/large/f82ce1c1ad245c5394df85a5222087e4.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4b806ca5/images/large/ea656eaa50ef5b919b4f4eaefe2745f0.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971h0hml",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model, brushed, 4 diamonds",
+      "originalPrice": "14000",
+      "salePrice": "700",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe1185efc/images/large/50ff9928258f517ba9ed610f834c0ceb.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw54209fba/images/large/81c394da67005724aed7d16afacd04da.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw5fd70155/images/large/0e187cc01381598daf4e33e8492a8d56.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw80e7a19d/images/large/a3b0e5e9f542528c8be413c47c978005.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dweef2e3b1/images/large/d8c9e0d55a1354da974fd323637f1aa4.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwdbef558b/images/large/ad87f8fce0e15e7ebe30ea7497e70002.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971vpohj",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model, 4 diamonds",
+      "originalPrice": "13100",
+      "salePrice": "655",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw9a1833b1/images/large/854f564099e85ed7a2b63d28669c77cf.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwed7af288/images/large/5c5ecc664cbd5670ba6f139e215c369c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw121889fb/images/large/7dea749ef81753f5a37e603c63b44b50.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwb76bf9e8/images/large/2c3be9261a2d525fb7451ee408ffe033.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw3f48963b/images/large/49cab8bbaea1540eb08404f69bfe1aba.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw04808d6a/images/large/5a706b062ec0519e8c5e624017c2ed3f.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "17780375639714a3wm",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, 10 diamonds",
+      "originalPrice": "10900",
+      "salePrice": "545",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8a3f5951/images/large/c1dab449b2f45d2f8689133de0b441f9.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwcd082e93/images/large/5656573a0a4758549f7a57be8b7d4c55.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw301a6871/images/large/8124946b755a568d9c5049b81a9768f8.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf7482039/images/large/bbc0bfe2c7645c61ba297fc170db373b.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8b7afd74/images/large/3a5a01e142d25fc48ed948fd073f30ad.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwa5eaf30e/images/large/55bc53166d3c55848f45b571054b3b93.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971olyij",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, paved",
+      "originalPrice": "5950",
+      "salePrice": "297.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw20eab08b/images/large/ff584659fdc651f78499c481476c8458.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfcdaa11a/images/large/38708ab0aded5aac83aaf5d6e184bb5d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw906b07b9/images/large/72abc9b77df357dcbd0262813c9fb12c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe8ada346/images/large/8cda4b8a2c3d52b48ccde04353dd3a5f.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw9e913fb5/images/large/27c834f3d0dc5bd5ab48512ee58d5961.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw2b3645c6/images/large/c5cd802dbc7f5afea74fd5f9522c2f44.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "17780375639710cjkd",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, 6 diamonds",
+      "originalPrice": "8050",
+      "salePrice": "402.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8ee08fd6/images/large/73f93d95fee0507cbdc08fa886764d7c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw62f38a29/images/large/c572c1b0409958488a2f6e383fa415fb.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc7e97286/images/large/0ddbb8a9f652525091b9cd95b87ddf6f.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw733aa048/images/large/ba84fdf412075efca7542445ee38a3da.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw13598601/images/large/b5454157919e59628bdaf84eb33eea92.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw7b269e01/images/large/c6ff6801cdcc524fa6301f4ab19548d8.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971fgj9v",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model, paved, ceramic",
+      "originalPrice": "49800",
+      "salePrice": "299",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf5526c99/images/large/c56d6fff50565afb81a90480ed3c7d74.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw25b23977/images/large/17284264d8a15bdfb7fa445141427dd8.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfa21e644/images/large/5654173da0f55212b851a2d35a43f7b5.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw2d46dea0/images/large/34ba1cf8d1cf522c844efca374bb0c78.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw16c4048c/images/large/65aaeb15a41c508cb5e829421f92de6d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwb9d31e0f/images/large/5cb1f4638b585f28ad161cb21f8b70ab.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971zodgb",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, 10 diamonds",
+      "originalPrice": "10900",
+      "salePrice": "545",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw5954b1f6/images/large/12a3a794a764564e889eccf8dab3506b.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc091c7ec/images/large/62c5d7462b61520e962527dcacf5300a.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw5c079af6/images/large/7858ac09df695e37b736f0a4abebccd2.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw286cb830/images/large/8c885c98d7405185956ee647588a2d81.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw11e12a1c/images/large/89a68465d2655fc0b2d93ed59fb8f3d7.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc45a32d1/images/large/e4fe9427e2ce5c2483fadace77fb4cf6.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971zvjkz",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model,10 diamonds",
+      "originalPrice": "19200",
+      "salePrice": "960",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe032e8fd/images/large/1620f1b3232056b39c5dc26e81a4bc5d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwde534799/images/large/ad9ff4bcfd445525b4cde0b3bae59653.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwe59e86d9/images/large/b5089fe00baa5110b5248171a0420685.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1a0cbff9/images/large/c7defa14869a50248552b1e2487643a7.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0d23ee1c/images/large/fe01dc46bba45d57b245b4c1f6de2772.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4dd10150/images/large/c909175ac7d15dfe9ac74cc6685f2740.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "177803756397190tq5",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, classic model, brushed",
+      "originalPrice": "7950",
+      "salePrice": "397.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw9718a844/images/large/e157d2350b82540586cfe30213f89102.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw7d4c0a9f/images/large/b1750c7a4fe45d8e8a8c16ca14ec60d6.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwc09fc2ca/images/large/4e3ff06887795a069f50678a19e7fe5b.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4084485a/images/large/38b062ae5fa25fe6a5eecb7ff4ab6dd0.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw9046da50/images/large/3a8242d786b058eaa1792cd5f2bd6020.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwca721730/images/large/21d4a7fbb2fc5bffb68b6ab606664771.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1778037563971ruexy",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, small model, paved",
+      "originalPrice": "29900",
+      "salePrice": "1495",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwdfc17944/images/large/2afa62fd0c645e50bc0e45f355337c83.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw3d2e0c2b/images/large/19631966882e5b099ebcf1b3eb03b04b.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw921901e4/images/large/947cbfe90c775f2fba3383487d8c1a3a.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw4701f089/images/large/4e5cabb03306575fa54c3426f5534fac.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw1ff7480a/images/large/1271ac9099455cbeb55608a0e28f798d.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0093d805/images/large/2e52ef47a78f5928babbb8e9d5469bcb.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "17780375639718i89h",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, paved",
+      "originalPrice": "6350",
+      "salePrice": "317.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwf8580b4e/images/large/084b7a45c2b55ff7ae04075dc307a1e3.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw22f41854/images/large/4c6eb36bb68651bba7cd56d85b8ffc51.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwb7ab1d37/images/large/fa27f6d6455b554aaa3d0dd8d72d0b0c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw2991bab7/images/large/bc11b6a8597a54a9aab0a197d64dbae0.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw6b2283ed/images/large/033c14b934e8543e8e4f6042bb8a0c85.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw6c4578f6/images/large/abe24e4b355152788ea5d301bffb92c9.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "17780375639714qcmu",
+      "brandId": "cartier",
+      "name": "LOVE bracelet, on chain, half-paved",
+      "originalPrice": "4850",
+      "salePrice": "242.5",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw0cfd5c73/images/large/be256c4c17b95e32a8e8eeb4e630d8ea.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8320b0c2/images/large/81d2a7a7ac16592caf45560f887a2274.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwfc515d03/images/large/dc02f2149e9051cd9c8c84136e8e850c.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dwa1848e52/images/large/9525d3ea5aa157789fbe4c7a3a768c65.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw8b16d29a/images/large/b615b987dae95ea2886a756829d067cc.png?sw=750&sh=750&sm=fit&sfrm=png",
+        "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Sites-cartier-master/default/dw2f44dd91/images/large/f34592dc57175f6ba1643738679e72d8.png?sw=750&sh=750&sm=fit&sfrm=png"
+      ],
+      "createdAt": 1778037563971
+    },
+    {
+      "id": "1777654690478flmhb",
+      "brandId": "fred",
+      "name": "Pretty Woman 7b0297",
+      "originalPrice": "6712.71",
+      "salePrice": "1006.91",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654837242-remote-0exzde.png",
+        "/uploads/1777654838100-remote-c3zirb.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478knubw",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b0253",
+      "originalPrice": "4806.63",
+      "salePrice": "720.99",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654812576-remote-yk25c.png",
+        "/uploads/1777654821174-remote-bfeot.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "17776546904786iool",
+      "brandId": "fred",
+      "name": "Force 10 7b0292",
+      "originalPrice": "2403.31",
+      "salePrice": "360.50",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654808241-remote-gmxvbq.png",
+        "/uploads/1777654809798-remote-ee9gye.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "17776546904781egcs",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b0221",
+      "originalPrice": "3618.78",
+      "salePrice": "542.82",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654793600-remote-9mwlja.png",
+        "/uploads/1777654800668-remote-bgpdej.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478bv13j",
+      "brandId": "fred",
+      "name": "Pretty Woman 7b0300",
+      "originalPrice": "6947.51",
+      "salePrice": "1042.13",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654772310-remote-pa8xld.png",
+        "/uploads/1777654773404-remote-4s7umb.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478siz32",
+      "brandId": "fred",
+      "name": "Force 10 7b0236",
+      "originalPrice": "4502.76",
+      "salePrice": "675.41",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654746392-remote-0d0fa.png",
+        "/uploads/1777654749445-remote-a6lr3e.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478vx823",
+      "brandId": "fred",
+      "name": "Force 10 7b0235",
+      "originalPrice": "6395.03",
+      "salePrice": "959.25",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654719216-remote-0i8t7m.png",
+        "/uploads/1777654727714-remote-ipztmn.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478df1mz",
+      "brandId": "fred",
+      "name": "Force 10 7b0281",
+      "originalPrice": "2417.13",
+      "salePrice": "362.57",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654716307-remote-bmixcs.png",
+        "/uploads/1777654717799-remote-lio1c.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478gadp5",
+      "brandId": "fred",
+      "name": "Force 10 7b0234",
+      "originalPrice": "6008.29",
+      "salePrice": "901.24",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654712573-remote-uh6pnl.png",
+        "/uploads/1777654714688-remote-b0dwed.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478x5e5x",
+      "brandId": "fred",
+      "name": "Force 10 7b0280",
+      "originalPrice": "2237.57",
+      "salePrice": "335.64",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654703460-remote-y1mli7.png",
+        "/uploads/1777654704925-remote-h0p3rh.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478hxd1v",
+      "brandId": "fred",
+      "name": "Force 10 Rise 7b2012",
+      "originalPrice": "5428.18",
+      "salePrice": "814.23",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654755300-remote-a33vj.png",
+        "/uploads/1777654758230-remote-6g5r6l.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478j70sl",
+      "brandId": "fred",
+      "name": "Force 10 Rise 3b0314",
+      "originalPrice": "5483.43",
+      "salePrice": "822.51",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654699566-remote-yj51s.png",
+        "/uploads/1777654701063-remote-tm4nhr.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478g82yq",
+      "brandId": "fred",
+      "name": "Force 10 7b0279",
+      "originalPrice": "2237.57",
+      "salePrice": "335.64",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654729486-remote-ut02rl.png",
+        "/uploads/1777654731154-remote-l1ksqr.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478r510w",
+      "brandId": "fred",
+      "name": "Force 10 7b0233",
+      "originalPrice": "6008.29",
+      "salePrice": "901.24",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654732090-remote-fz4q7s.png",
+        "/uploads/1777654732722-remote-yboi7.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478vvk73",
+      "brandId": "fred",
+      "name": "Force 10 7b0238",
+      "originalPrice": "4806.63",
+      "salePrice": "720.99",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654734969-remote-imed9b.png",
+        "/uploads/1777654736450-remote-f4d8h.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478qxlce",
+      "brandId": "fred",
+      "name": "Force 10 7b0237",
+      "originalPrice": "4502.76",
+      "salePrice": "675.41",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654740519-remote-16kjj.png",
+        "/uploads/1777654742575-remote-r1p08j.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "177765469047863wsm",
+      "brandId": "fred",
+      "name": "Force 10 Rise 7b2013",
+      "originalPrice": "5870.17",
+      "salePrice": "880.52",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654751300-remote-m1loh.png",
+        "/uploads/1777654752886-remote-epvlxm.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478i5yna",
+      "brandId": "fred",
+      "name": "Pretty Woman 7j0392",
+      "originalPrice": "9461.33",
+      "salePrice": "1419.20",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654764692-remote-57uzf.png",
+        "/uploads/1777654770547-remote-3le4s.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478qzb3k",
+      "brandId": "fred",
+      "name": "Pretty Woman 7b0259",
+      "originalPrice": "4779.01",
+      "salePrice": "716.85",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654774680-remote-zw58m.png",
+        "/uploads/1777654775358-remote-6q4i2d.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478t3x2e",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b2001",
+      "originalPrice": "10207.18",
+      "salePrice": "1531.08",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654777294-remote-c1hrmf.png",
+        "/uploads/1777654784664-remote-rzufm.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "177765469047825bet",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b2002",
+      "originalPrice": "10856.35",
+      "salePrice": "1628.45",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654786524-remote-bp5lje.png",
+        "/uploads/1777654787758-remote-cggfko.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478z5zb7",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b0224",
+      "originalPrice": "4917.13",
+      "salePrice": "737.57",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654789060-remote-x0td7k.png",
+        "/uploads/1777654790568-remote-mr9yp.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478xyqcx",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b0223",
+      "originalPrice": "4599.45",
+      "salePrice": "689.92",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654802977-remote-w0omu.png",
+        "/uploads/1777654804952-remote-m5kh2r.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478kou7a",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b0222",
+      "originalPrice": "3867.40",
+      "salePrice": "580.11",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654823309-remote-jae9zj.png",
+        "/uploads/1777654824690-remote-0uncn.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478o99fb",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b0226",
+      "originalPrice": "7389.50",
+      "salePrice": "1108.43",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654826860-remote-lwtqmm.png",
+        "/uploads/1777654827835-remote-57dltr.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478ozthq",
+      "brandId": "fred",
+      "name": "Pretty Woman 7b0298",
+      "originalPrice": "7182.32",
+      "salePrice": "1077.35",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654829572-remote-d2gjnx.png",
+        "/uploads/1777654831320-remote-3beq7g.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "17776546904780y1nr",
+      "brandId": "fred",
+      "name": "Pretty Woman 7b0299",
+      "originalPrice": "7624.31",
+      "salePrice": "1143.65",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654833478-remote-he0ywd.png",
+        "/uploads/1777654834670-remote-l6gcwi.jpg"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478981u8",
+      "brandId": "fred",
+      "name": "Chance Infinie 7b0225",
+      "originalPrice": "6892.27",
+      "salePrice": "1033.84",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654841648-remote-cmltup.png",
+        "/uploads/1777654848194-remote-2dub3.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "17776546904787rmz2",
+      "brandId": "fred",
+      "name": "Pretty Woman 7b0257",
+      "originalPrice": "3674.03",
+      "salePrice": "551.10",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654849695-remote-w4zouo.png",
+        "/uploads/1777654855476-remote-et5is8.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777654690478b96iz",
+      "brandId": "fred",
+      "name": "Pretty Woman 7b0260",
+      "originalPrice": "2279.01",
+      "salePrice": "341.85",
+      "category": "Necklaces",
+      "rating": 5,
+      "images": [
+        "/uploads/1777654857193-remote-lkyun6.png",
+        "/uploads/1777654858347-remote-wlbjw8.png"
+      ],
+      "createdAt": 1777654690478
+    },
+    {
+      "id": "1777653465888lb589",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "3743.09",
+      "salePrice": "561.46",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653480479-remote-3r2a69.png",
+        "/uploads/1777653482341-remote-zf3soz5.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "17776534658886ffs9",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "3494.48",
+      "salePrice": "524.17",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653484102-remote-h6rv6a.png",
+        "/uploads/1777653485484-remote-ts2ah9.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888sa5q3",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "4779.01",
+      "salePrice": "716.85",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653487436-remote-oxzis.png",
+        "/uploads/1777653489461-remote-2vi4ug.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888s2rtp",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "11602.21",
+      "salePrice": "1740.33",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653491765-remote-fbjcv7.png",
+        "/uploads/1777653493599-remote-q0u39.jpg"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888spwgg",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "12361.88",
+      "salePrice": "1854.28",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653495450-remote-8867x.png",
+        "/uploads/1777653498005-remote-1hxh.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "17776534658881acjy",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "2030.39",
+      "salePrice": "304.56",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653499656-remote-45ob5c.png",
+        "/uploads/1777653500499-remote-yxzz9x.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888z8fcq",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "1919.89",
+      "salePrice": "287.98",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653503340-remote-3orzob.png",
+        "/uploads/1777653505926-remote-7oz05p.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888jwwtu",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "1919.89",
+      "salePrice": "287.98",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653507230-remote-kmx5em.png",
+        "/uploads/1777653509742-remote-9w8oa.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "177765346588885hqo",
+      "brandId": "fred",
+      "name": "Pretty Woman Ring",
+      "originalPrice": "2859.12",
+      "salePrice": "428.87",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653515138-remote-anmp1s.png",
+        "/uploads/1777653518943-remote-3a17az9.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888m7cyd",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "7168.51",
+      "salePrice": "1075.28",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653521276-remote-zgzmcq.png",
+        "/uploads/1777653523955-remote-8p6odg.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888d88jb",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "6726.52",
+      "salePrice": "1008.98",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653526308-remote-wabkie.png",
+        "/uploads/1777653529114-remote-7oknxf.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888f5vgk",
+      "brandId": "fred",
+      "name": "Force 10 Rise Ring",
+      "originalPrice": "7417.13",
+      "salePrice": "1112.57",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653531733-remote-gjvcc9.png",
+        "/uploads/1777653534389-remote-zdj42.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "177765346588893lgf",
+      "brandId": "fred",
+      "name": "Force 10 Rise Ring",
+      "originalPrice": "7859.12",
+      "salePrice": "1178.87",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653536468-remote-m2jagj.png",
+        "/uploads/1777653538999-remote-nau4in.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888s6d64",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "5262.43",
+      "salePrice": "789.36",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653540873-remote-v1zrj.png",
+        "/uploads/1777653543615-remote-ay0sl.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888ncejf",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "6781.77",
+      "salePrice": "1017.27",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653545144-remote-dlfnrr.png",
+        "/uploads/1777653547132-remote-8zb29o.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888wabbe",
+      "brandId": "fred",
+      "name": "Force 10 Ring Winch",
+      "originalPrice": "3287.29",
+      "salePrice": "493.09",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653548235-remote-xvnta.png",
+        "/uploads/1777653550493-remote-rpvdo.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888bvkyv",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "4419.89",
+      "salePrice": "662.98",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653555749-remote-al9fzr.png",
+        "/uploads/1777653558078-remote-yp3nji.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888618t8",
+      "brandId": "fred",
+      "name": "Pretty Woman Ring",
+      "originalPrice": "5580.11",
+      "salePrice": "837.02",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653564646-remote-dpx3pq.png",
+        "/uploads/1777653567237-remote-7yo9o.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888szw83",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "4571.82",
+      "salePrice": "685.77",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653571087-remote-plfere.png",
+        "/uploads/1777653571958-remote-d5eip.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888iigzw",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "67817.68",
+      "salePrice": "339",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653574085-remote-bw4cku.png",
+        "/uploads/1777653576066-remote-6fu20o.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888kprtc",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "63812.15",
+      "salePrice": "319",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653578639-remote-4zwo9s.png",
+        "/uploads/1777653580661-remote-ao9p7j.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888nh5u9",
+      "brandId": "fred",
+      "name": "Pretty Woman Audacious Ring",
+      "originalPrice": "31629.83",
+      "salePrice": "316",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653581982-remote-cxdv63.png",
+        "/uploads/1777653583182-remote-p79oss.png"
+      ],
+      "createdAt": 1777653465888,
+      "discount": -99
+    },
+    {
+      "id": "17776534658886rqpe",
+      "brandId": "fred",
+      "name": "Pretty Woman Unconditional Ring",
+      "originalPrice": "15193.37",
+      "salePrice": "456",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653586286-remote-ca4oo7.png",
+        "/uploads/1777653589825-remote-y2qk64.png"
+      ],
+      "createdAt": 1777653465888,
+      "discount": -97
+    },
+    {
+      "id": "1777653465888xl8s7",
+      "brandId": "fred",
+      "name": "Force 10 Duo Ring",
+      "originalPrice": "3273.48",
+      "salePrice": "491.02",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653591435-remote-j2hakj.png",
+        "/uploads/1777653592860-remote-9xfhci.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888sxm0i",
+      "brandId": "fred",
+      "name": "Force 10 Duo Ring",
+      "originalPrice": "3273.48",
+      "salePrice": "491.02",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653594893-remote-3csnc.png",
+        "/uploads/1777653596140-remote-kzrgmd.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888bja44",
+      "brandId": "fred",
+      "name": "Force 10 Duo Ring",
+      "originalPrice": "3508.29",
+      "salePrice": "526.24",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653597861-remote-ts4jpq.png",
+        "/uploads/1777653599103-remote-rkcy6c.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888virv0",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "3784.53",
+      "salePrice": "567.68",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653601290-remote-i4qv2i.png",
+        "/uploads/1777653602839-remote-16wdfs.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888q3klv",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "4281.77",
+      "salePrice": "642.27",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653604367-remote-iwvvh7.png",
+        "/uploads/1777653606303-remote-dbbq4j.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "17776534658881n8eu",
+      "brandId": "fred",
+      "name": "Chance Infinie Ring",
+      "originalPrice": "5621.55",
+      "salePrice": "843.23",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653607202-remote-wi24or.png",
+        "/uploads/1777653609023-remote-quna.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "177765346588887q5n",
+      "brandId": "fred",
+      "name": "Force 10 Rise Ring",
+      "originalPrice": "10994.48",
+      "salePrice": "1649.17",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653610784-remote-yzyg8b.png",
+        "/uploads/1777653612322-remote-ad5qyl.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888db2ol",
+      "brandId": "fred",
+      "name": "Chance Infinie Crazy 8 Ring",
+      "originalPrice": "116850.83",
+      "salePrice": "584",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653618270-remote-8mf0h8.png",
+        "/uploads/1777653619050-remote-kao4gf.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "177765346588870aye",
+      "brandId": "fred",
+      "name": "Fred For Love Wedding B",
+      "originalPrice": "1961.33",
+      "salePrice": "294.20",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653631846-remote-ipndrrb.png",
+        "/uploads/1777653632744-remote-duvpx.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888owlls",
+      "brandId": "fred",
+      "name": "Force 10 Ring",
+      "originalPrice": "7417.13",
+      "salePrice": "1112.57",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653634811-remote-swja6.png",
+        "/uploads/1777653636454-remote-3wrsws.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888tzxmt",
+      "brandId": "fred",
+      "name": "Coup De Foudre Wedding B",
+      "originalPrice": "3908.84",
+      "salePrice": "586.33",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653639137-remote-iqnc29.png",
+        "/uploads/1777653640910-remote-jq6r6g.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777653465888qkhcm",
+      "brandId": "fred",
+      "name": "Coup De Foudre Wedding B",
+      "originalPrice": "3908.84",
+      "salePrice": "586.33",
+      "category": "Rings",
+      "rating": 5,
+      "images": [
+        "/uploads/1777653642969-remote-0raai.png",
+        "/uploads/1777653644300-remote-cm23f.png"
+      ],
+      "createdAt": 1777653465888
+    },
+    {
+      "id": "1777636018392dh3uk",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "7375.69",
+      "salePrice": "369",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636183629-remote-w8b2em.png",
+        "/uploads/1777636185185-remote-s280dg.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392up2ff",
+      "brandId": "fred",
+      "name": "Chance Infinie Series Bracelet Medium Model",
+      "originalPrice": "2872.93",
+      "salePrice": "17",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636120402-remote-qgvkt.png",
+        "/uploads/1777636122969-remote-hvg4io.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "177763601839200jv1",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "8093.92",
+      "salePrice": "405",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636137070-remote-26khxj.png",
+        "/uploads/1777636139748-remote-uwt04m.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392b6ata",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "5207.18",
+      "salePrice": "260",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636128568-remote-p5imhv.png",
+        "/uploads/1777636131017-remote-6gk6zd.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392fuh3i",
+      "brandId": "fred",
+      "name": "Chance Infinie Series Bracelet Small Model",
+      "originalPrice": "2071.82",
+      "salePrice": "207",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636103617-remote-f89jbk.png",
+        "/uploads/1777636104767-remote-cpv6h8.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392nhr9z",
+      "brandId": "fred",
+      "name": "Pretty Woman Bracelet Mini Model",
+      "originalPrice": "1795.58",
+      "salePrice": "11",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636087737-remote-elgiigo.png",
+        "/uploads/1777636091410-remote-yescl.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392ccc15",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet #fredxrol Garros Full Paved Colored Medium Model",
+      "originalPrice": "5220.99",
+      "salePrice": "261",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636080668-remote-69x9a.png",
+        "/uploads/1777636082296-remote-bghu93c.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183922tx6m",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "4889.50",
+      "salePrice": "244",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636077244-remote-te136.png",
+        "/uploads/1777636078688-remote-nmn6te.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183924oim0",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Colored Medium Model",
+      "originalPrice": "4364.64",
+      "salePrice": "218",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636073927-remote-hesio3.png",
+        "/uploads/1777636075761-remote-uw63q7.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392wcr1v",
+      "brandId": "fred",
+      "name": "Force 10 Seriessmall Model Bracelet Small Model",
+      "originalPrice": "1450.28",
+      "salePrice": "9",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636034250-remote-0um0dp.png",
+        "/uploads/1777636035683-remote-hgmvnh.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392plh80",
+      "brandId": "fred",
+      "name": "Force 10 Seriessmall Model Bracelet Small Model",
+      "originalPrice": "1325.97",
+      "salePrice": "199",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636048742-remote-avs1dl.png",
+        "/uploads/1777636050672-remote-o3drj.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "177763601839251x2l",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet #fredxrol Garros Full Paved Colored Medium Model",
+      "originalPrice": "4033.15",
+      "salePrice": "202",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636027326-remote-5xrefw.png",
+        "/uploads/1777636029282-remote-jqlqt8.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392fk8is",
+      "brandId": "fred",
+      "name": "Force 10 Series Bracelet Small Model",
+      "originalPrice": "2209.94",
+      "salePrice": "221",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636030898-remote-0i0wqj.png",
+        "/uploads/1777636032485-remote-uc9c96.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392wmwt3",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3508.29",
+      "salePrice": "21",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636036854-remote-zinsoj.png",
+        "/uploads/1777636038641-remote-sfhvpn.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392y1lwa",
+      "brandId": "fred",
+      "name": "Force 10 Series Bracelet #fredxrol Garros Small Model， Half Paved Colored",
+      "originalPrice": "2582.87",
+      "salePrice": "15",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636040399-remote-oi4kw.png",
+        "/uploads/1777636042436-remote-nub26a.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392g2ogd",
+      "brandId": "fred",
+      "name": "Force 10 Series Bracelet Small Model",
+      "originalPrice": "2085.64",
+      "salePrice": "209",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636044484-remote-x2kcr.png",
+        "/uploads/1777636046748-remote-9w1qna.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392kycha",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "4889.50",
+      "salePrice": "244",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636052043-remote-izw70w.png",
+        "/uploads/1777636053543-remote-w3fagr.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392buj96",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "2845.30",
+      "salePrice": "17",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636055695-remote-hf6r99.png",
+        "/uploads/1777636056521-remote-mkxoti.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183929mdiq",
+      "brandId": "fred",
+      "name": "Force 10 Seriessmall Model Bracelet Small Model",
+      "originalPrice": "1325.97",
+      "salePrice": "199",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636058453-remote-u14k0t.png",
+        "/uploads/1777636060224-remote-cpj3t.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392y1xts",
+      "brandId": "fred",
+      "name": "Force 10 Series Bracelet Small Model",
+      "originalPrice": "2085.64",
+      "salePrice": "209",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636062130-remote-jsjhsr.png",
+        "/uploads/1777636063971-remote-xo6l0o.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392nmuk3",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3080.11",
+      "salePrice": "18",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636065640-remote-sx5oer.png",
+        "/uploads/1777636067304-remote-4x4rkp.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392bwkzh",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3494.48",
+      "salePrice": "21",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636069490-remote-b4r0cp.png",
+        "/uploads/1777636071666-remote-eagvil.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392oo10x",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet #fredxrol Garros Orange-red Garnet Medium Model",
+      "originalPrice": "3121.55",
+      "salePrice": "19",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636084156-remote-wq2f4.png",
+        "/uploads/1777636085969-remote-vwss8w.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392i9xem",
+      "brandId": "fred",
+      "name": "Pretty Woman Bracelet Mini Model",
+      "originalPrice": "1947.51",
+      "salePrice": "12",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636092988-remote-emm2yl.png",
+        "/uploads/1777636094855-remote-1vvu8a.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392747zg",
+      "brandId": "fred",
+      "name": "Chance Infinie Series Bracelet Medium Model",
+      "originalPrice": "3577.35",
+      "salePrice": "21",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636096723-remote-tjh5yg.png",
+        "/uploads/1777636098271-remote-84haak.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392iqlph",
+      "brandId": "fred",
+      "name": "Chance Infinie Series Bracelet Medium Model",
+      "originalPrice": "2665.75",
+      "salePrice": "16",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636100262-remote-tu7e5b.png",
+        "/uploads/1777636101766-remote-q8zy9v.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392179hv",
+      "brandId": "fred",
+      "name": "Chance Infinie Series Bracelet Medium Model",
+      "originalPrice": "3812.15",
+      "salePrice": "23",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636106748-remote-veo9ff.png",
+        "/uploads/1777636108652-remote-1kon8.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392xdklh",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "6422.65",
+      "salePrice": "321",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636110568-remote-4s2hl.png",
+        "/uploads/1777636111412-remote-yf3r3h.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392bl9sg",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "2859.12",
+      "salePrice": "17",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636113069-remote-v940ya.png",
+        "/uploads/1777636114908-remote-w9kll9.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392rcv3k",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3494.48",
+      "salePrice": "21",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636115972-remote-29utj.png",
+        "/uploads/1777636118410-remote-4bu3f.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392ewold",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3494.48",
+      "salePrice": "21",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636124861-remote-x0uvaj.png",
+        "/uploads/1777636126433-remote-rxi5f.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183920igbs",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Colored Medium Model",
+      "originalPrice": "4364.64",
+      "salePrice": "218",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636131968-remote-744wr9.png",
+        "/uploads/1777636132852-remote-e5w2ry.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392r6u2k",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3743.09",
+      "salePrice": "22",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636133917-remote-pexug.png",
+        "/uploads/1777636135792-remote-zufy0e.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392knsg5",
+      "brandId": "fred",
+      "name": "Chance Infinie Series Bracelet ， Medium Model",
+      "originalPrice": "3756.91",
+      "salePrice": "23",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636142032-remote-d41aj3.png",
+        "/uploads/1777636143880-remote-5p4lfg.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392jkbub",
+      "brandId": "fred",
+      "name": "Chance Infinie Series",
+      "originalPrice": "19613.26",
+      "salePrice": "981",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636146038-remote-twks2s.png",
+        "/uploads/1777636147914-remote-8dci0j.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392edo1e",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3743.09",
+      "salePrice": "22",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636149359-remote-lnz764.png",
+        "/uploads/1777636150585-remote-85oael.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392sim2e",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "5220.99",
+      "salePrice": "261",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636152563-remote-jcdgo.png",
+        "/uploads/1777636153438-remote-7sg8ub.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392bzyq7",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet ， ， ， Medium Model",
+      "originalPrice": "4516.57",
+      "salePrice": "226",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636155349-remote-jaxk5.png",
+        "/uploads/1777636157432-remote-j50n1z.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392btq64",
+      "brandId": "fred",
+      "name": "Chance Infinie Series",
+      "originalPrice": "20856.35",
+      "salePrice": "1,043",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636159319-remote-h3d9ix.png",
+        "/uploads/1777636161034-remote-mn88o8.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "177763601839272ckx",
+      "brandId": "fred",
+      "name": "Chance Infinie Series Bracelet Small Model",
+      "originalPrice": "2223.76",
+      "salePrice": "222",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636162963-remote-d7s2mh.png",
+        "/uploads/1777636165887-remote-ograu4.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392raqmi",
+      "brandId": "fred",
+      "name": "Chance Infinie Crazy 8 Bracelet ，",
+      "originalPrice": "35773.48",
+      "salePrice": "1,789",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636168253-remote-b92c8r.png",
+        "/uploads/1777636170028-remote-bx39y.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392hjiv3",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "4267.96",
+      "salePrice": "213",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636172990-remote-llat8m.png",
+        "/uploads/1777636174951-remote-gfmcfp.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392i7kob",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3494.48",
+      "salePrice": "21",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636176967-remote-4k583j.png",
+        "/uploads/1777636178904-remote-zqlqpg.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392qdm4c",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "8093.92",
+      "salePrice": "405",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636180322-remote-4emg1j.png",
+        "/uploads/1777636181744-remote-nkj5rh.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392c7bif",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "4309.39",
+      "salePrice": "215",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636187059-remote-srxi9.png",
+        "/uploads/1777636189684-remote-p7tdz.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183926pp8g",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "21325.97",
+      "salePrice": "1,066",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636191843-remote-zuxwca.png",
+        "/uploads/1777636192711-remote-6en1ph.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392honrl",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Colored Medium Model",
+      "originalPrice": "7569.06",
+      "salePrice": "378",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636194656-remote-oq3bog.png",
+        "/uploads/1777636197644-remote-58p8g.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392z9mgw",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "5980.66",
+      "salePrice": "299",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636199787-remote-ghhoz9.png",
+        "/uploads/1777636200846-remote-9whp7.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392viscg",
+      "brandId": "fred",
+      "name": "Chance Infinie Crazy 8 Bracelet",
+      "originalPrice": "37707.18",
+      "salePrice": "1,885",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636203350-remote-62er1p.png",
+        "/uploads/1777636204616-remote-kg6fy.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183921bb84",
+      "brandId": "fred",
+      "name": "Force 10 Rise Series",
+      "originalPrice": "48342.54",
+      "salePrice": "290",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636207145-remote-knvdhs.png",
+        "/uploads/1777636209258-remote-pjxjtr.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392u0ikc",
+      "brandId": "fred",
+      "name": "Chance Infinie Bracelet Medium Model",
+      "originalPrice": "3756.91",
+      "salePrice": "23",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636210931-remote-hm6shs.png",
+        "/uploads/1777636212859-remote-f811fs.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392kn52m",
+      "brandId": "fred",
+      "name": "Chance Infinie Bracelet Medium Model",
+      "originalPrice": "8121.55",
+      "salePrice": "406",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636215005-remote-8u794q.png",
+        "/uploads/1777636217584-remote-wv4tbm.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183927rwc3",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "5207.18",
+      "salePrice": "260",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636224928-remote-kqkplq.png",
+        "/uploads/1777636227135-remote-90kc3s.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392gmhlb",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "5055.25",
+      "salePrice": "253",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636229638-remote-jvk03i.png",
+        "/uploads/1777636231811-remote-ca9scl.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392bfb6s",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "6049.72",
+      "salePrice": "302",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636234474-remote-nwt6e.png",
+        "/uploads/1777636236395-remote-zlpyo.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392x9qjz",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "3494.48",
+      "salePrice": "21",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636238261-remote-mpqt4v.png",
+        "/uploads/1777636242765-remote-fgfhdm.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392qgvj7",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "2845.30",
+      "salePrice": "17",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636245226-remote-ocl6cl.png",
+        "/uploads/1777636247392-remote-a7fyzd.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392gwlqs",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "5207.18",
+      "salePrice": "260",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636249949-remote-icxx6.png",
+        "/uploads/1777636252563-remote-7bh2t.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392qw7ux",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "5207.18",
+      "salePrice": "260",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636254731-remote-mkcsl.png",
+        "/uploads/1777636258003-remote-f4mgqk.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392v00p7",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "4792.82",
+      "salePrice": "240",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636260086-remote-7wcxc.png",
+        "/uploads/1777636262518-remote-lekw4b.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392gpq61",
+      "brandId": "fred",
+      "name": "Chance Infinie Bracelet Medium Model",
+      "originalPrice": "3743.09",
+      "salePrice": "22",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636264342-remote-v40ry.png",
+        "/uploads/1777636265920-remote-f6vkr9.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392yam4s",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Colored Medium Model",
+      "originalPrice": "4364.64",
+      "salePrice": "218",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636267978-remote-hx6mem.png",
+        "/uploads/1777636269811-remote-dzff6t.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183928zli2",
+      "brandId": "fred",
+      "name": "Force 10 Bracelet Medium Model",
+      "originalPrice": "4267.96",
+      "salePrice": "213",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636271783-remote-5hrx1s.png",
+        "/uploads/1777636274365-remote-fiyciz.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392pnqdt",
+      "brandId": "fred",
+      "name": "Force 10bracelet",
+      "originalPrice": "4903.31",
+      "salePrice": "245",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636279254-remote-w4nfwr.png",
+        "/uploads/1777636281059-remote-uih6.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392k6c0b",
+      "brandId": "fred",
+      "name": "Force 10bracelet",
+      "originalPrice": "3743.09",
+      "salePrice": "22",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636283048-remote-bw72x.png",
+        "/uploads/1777636284855-remote-3h3fyh.jpg"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183925qfgi",
+      "brandId": "fred",
+      "name": "Force 10bracelet",
+      "originalPrice": "25359.12",
+      "salePrice": "1,268",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636287195-remote-q9h0ud.png",
+        "/uploads/1777636289122-remote-zgt0fg.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777636018392cm3t1",
+      "brandId": "fred",
+      "name": "Force 10bracelet",
+      "originalPrice": "32265.19",
+      "salePrice": "1,613",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636290590-remote-i2ifyf.png",
+        "/uploads/1777636293425-remote-u43udq.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "177763601839281iue",
+      "brandId": "fred",
+      "name": "Force 10bracelet",
+      "originalPrice": "28259.67",
+      "salePrice": "1,413",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636295315-remote-tsm2o.png",
+        "/uploads/1777636297290-remote-fsjbyvb.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "177763601839284033",
+      "brandId": "fred",
+      "name": "Force 10bracelet",
+      "originalPrice": "3494.48",
+      "salePrice": "21",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636299325-remote-8irjns.png",
+        "/uploads/1777636303302-remote-p74lhl.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "17776360183926rwco",
+      "brandId": "fred",
+      "name": "Force 10bracelet",
+      "originalPrice": "7389.50",
+      "salePrice": "369",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636316072-remote-hng6il.png",
+        "/uploads/1777636317875-remote-22r0h.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "177763601839223ygo",
+      "brandId": "fred",
+      "name": "Force 10bracelet",
+      "originalPrice": "28674.03",
+      "salePrice": "1,434",
+      "category": "Bracelets",
+      "rating": 5,
+      "images": [
+        "/uploads/1777636320127-remote-df3jni.png",
+        "/uploads/1777636325237-remote-b8krtd.png"
+      ],
+      "createdAt": 1777636018392
+    },
+    {
+      "id": "1777625528105",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom M Star Pendant, Rose Gold and Pink Mother-of-Pearl",
+      "originalPrice": "$3,300.00",
+      "salePrice": "495",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625532527-remote-t21pi6.png",
+        "/uploads/1777625537335-remote-ingi7c.png",
+        "/uploads/1778036506587-remote-ss2qzd.png",
+        "/uploads/1778036522099-remote-zpt07r.png",
+        "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-color-blossom-m-star-pendant-rose-gold-and-pink-mother-of-pearl--Q03912_PM1_Cropped%20view.png?wid=1090&hei=1090"
+      ],
+      "createdAt": 1777625528105,
+      "category": "Necklaces",
+      "discount": -85
+    },
+    {
+      "id": "1777625494864",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star and Sun Multi-Motif Bracelet, Pink Gold, White Mother-of-Pearl and Diamonds",
+      "originalPrice": "$6,900.00",
+      "salePrice": "1,035",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625500109-remote-tpean.png",
+        "/uploads/1777625506210-remote-wnok7o.png",
+        "/uploads/1778036553860-remote-xo0fvi.png",
+        "/uploads/1778036570499-remote-1juyqh.png"
+      ],
+      "createdAt": 1777625494864,
+      "category": "Bracelets",
+      "discount": -85
+    },
+    {
+      "id": "1777625463399",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star Ear Stud, Pink Gold and White Mother-of-Pearl - Per Unit",
+      "originalPrice": "$1,680.00",
+      "salePrice": "252",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625467238-remote-ev6bb8.png",
+        "/uploads/1777625471200-remote-frh58q.png"
+      ],
+      "createdAt": 1777625463399,
+      "category": "Earrings"
+    },
+    {
+      "id": "1777625432135",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom star pendant, pink gold and white mother-of-pearl",
+      "originalPrice": "$3,150.00",
+      "salePrice": "473",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625435892-remote-f0q0vem.png",
+        "/uploads/1777625440460-remote-mp5mn7.png",
+        "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-color-blossom-star-pendant-pink-gold-and-white-mother-of-pearl--Q93521_PM1_Other%20view.png?wid=1090&hei=1090"
+      ],
+      "createdAt": 1777625432135,
+      "category": "Necklaces",
+      "discount": -85
+    },
+    {
+      "id": "1777625401526",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom M Star Pendant, Pink Gold, White Mother-of-Pearl and Diamonds",
+      "originalPrice": "$6,400.00",
+      "salePrice": "960",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625405187-remote-khd1lta.png",
+        "/uploads/1777625407585-remote-w7pwo.png",
+        "/uploads/1778036625159-remote-mafi0i.png",
+        "/uploads/1778036633959-remote-9tfid.png",
+        "/uploads/1778036640671-remote-hxgvrs.png",
+        "/uploads/1778036647316-remote-xgqko.png"
+      ],
+      "createdAt": 1777625401526,
+      "category": "Necklaces",
+      "discount": -85
+    },
+    {
+      "id": "1777625366029",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Multi-Motif Short Necklace, Pink Gold, Pink Mother-of-Pearl and Diamonds",
+      "originalPrice": "$16,100.00",
+      "salePrice": "483",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625369579-remote-u7pxk7.png",
+        "/uploads/1777625380540-remote-hr5sy.png"
+      ],
+      "createdAt": 1777625366029,
+      "category": "Necklaces",
+      "discount": -97
+    },
+    {
+      "id": "1777625333580",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom M Sun Pendant, Pink Gold, White Mother-of-Pearl and Diamonds",
+      "originalPrice": "$6,950.00",
+      "salePrice": "1,043",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625337454-remote-wey6z.png",
+        "/uploads/1777625340693-remote-h38el.png"
+      ],
+      "createdAt": 1777625333580,
+      "category": "Necklaces"
+    },
+    {
+      "id": "1777625300934",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star and Sun Multi-Motif Bracelet, Pink Gold, White Mother-of-Pearl and Diamonds",
+      "originalPrice": "$14,900.00",
+      "salePrice": "447",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625305458-remote-xmj6el.png",
+        "/uploads/1777625309359-remote-mu6z9a.png"
+      ],
+      "createdAt": 1777625300934,
+      "category": "Bracelets",
+      "discount": -97
+    },
+    {
+      "id": "1777625266468",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star andSun Multi-Motif Bracelet, Rose Gold, Pink Mother-of-Pearl and Diamonds",
+      "originalPrice": "$7,200.00",
+      "salePrice": "1,080",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625270656-remote-grof5.png",
+        "/uploads/1777625271563-remote-3eig4.png"
+      ],
+      "createdAt": 1777625266468,
+      "category": "Bracelets"
+    },
+    {
+      "id": "1777625230139",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom Mini Sun Ring, Pink Gold, Pink Mother-of-Pearl and Diamond",
+      "originalPrice": "$3,300.00",
+      "salePrice": "495",
+      "rating": 5,
+      "images": [
+        "/uploads/1777625235672-remote-lolknf.png",
+        "/uploads/1777627242028-lv.jpg"
+      ],
+      "createdAt": 1777625230139,
+      "discount": -85,
+      "category": "Rings"
+    },
+    {
+      "id": "1777624949757",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star Earrings, Pink Gold, Pink Mother-of-Pearl and Diamonds",
+      "originalPrice": "$4,100.00",
+      "salePrice": "820",
+      "rating": 5,
+      "images": [
+        "/uploads/1777624953687-remote-2ryggs.png",
+        "/uploads/1777624956367-remote-rox5n6.png"
+      ],
+      "createdAt": 1777624949757,
+      "category": "Rings"
+    },
+    {
+      "id": "1777624849490",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star Pendant, Pink Gold, Pink Mother-of-Pearl and Diamond",
+      "originalPrice": "$3,000.00",
+      "salePrice": "600",
+      "rating": 5,
+      "images": [
+        "/uploads/1777624854324-remote-e3fswu.png",
+        "/uploads/1777624857047-remote-nx66s.png"
+      ],
+      "createdAt": 1777624849491,
+      "category": "Necklaces"
+    },
+    {
+      "id": "1777624758008",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star Pendant, Yellow Gold, Sodalite and Diamond",
+      "originalPrice": "$3,300.00",
+      "salePrice": "660",
+      "rating": 5,
+      "images": [
+        "/uploads/1777624766578-remote-h3w8xn.png",
+        "/uploads/1777624769448-remote-udb3ui.png"
+      ],
+      "createdAt": 1777624758008,
+      "category": "Necklaces"
+    },
+    {
+      "id": "1777624721927",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom Mini Star Ring, Yellow Gold, Sodalite and Diamond",
+      "originalPrice": "$3,550.00",
+      "salePrice": "710",
+      "rating": 5,
+      "images": [
+        "/uploads/1777624729238-remote-x5eah8.png",
+        "/uploads/1777624731363-remote-m3q1h8.png"
+      ],
+      "createdAt": 1777624721927,
+      "category": "Rings"
+    },
+    {
+      "id": "1777624681519",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star Bracelet, Yellow Gold, Sodalite and Diamond",
+      "originalPrice": "$3,150.00",
+      "salePrice": "630",
+      "rating": 5,
+      "images": [
+        "/uploads/1777624685642-remote-jgi0r8.png",
+        "/uploads/1777624687545-remote-f8d8x9.png"
+      ],
+      "createdAt": 1777624681519,
+      "category": "Bracelets"
+    },
+    {
+      "id": "1777624592569",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star Earstud, Yellow Gold and Sodalite - per unit",
+      "originalPrice": "$2,210.00",
+      "salePrice": "442",
+      "rating": 5,
+      "images": [
+        "/uploads/1777624596314-remote-8too3r.png",
+        "/uploads/1777624597815-remote-5hzxto.png"
+      ],
+      "createdAt": 1777624592569,
+      "category": "Earrings"
+    },
+    {
+      "id": "1777623839372",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Sun Pendant, Yellow Gold, Sodalite and Diamond",
+      "originalPrice": "$3,300.00",
+      "salePrice": "660",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623844540-remote-0a1n3p.png",
+        "/uploads/1777623848590-remote-m3rw1k.png"
+      ],
+      "createdAt": 1777623839372,
+      "category": "Necklaces"
+    },
+    {
+      "id": "1777623712590",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star and Sun Multi-Motif Bracelet, Yellow Gold, Sodalite and Diamonds",
+      "originalPrice": "$11,600.00",
+      "salePrice": "348",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623717100-remote-ip9li.png",
+        "/uploads/1777623720943-remote-kzoxip.png"
+      ],
+      "createdAt": 1777623712590,
+      "category": "Bracelets",
+      "discount": -97
+    },
+    {
+      "id": "1777623683949",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star Pendant, Yellow Gold, Amazonite and Diamond",
+      "originalPrice": "$3,150.00",
+      "salePrice": "630",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623690840-remote-6zazjo.png",
+        "/uploads/1777623694771-remote-jhzp1f.png"
+      ],
+      "createdAt": 1777623683949,
+      "category": "Necklaces"
+    },
+    {
+      "id": "1777623651924",
+      "brandId": "louis-vuitton",
+      "name": "Color Blossom BB Star and Sun Multi-Motif Bracelet, Yellow Gold, Amazonite and Diamonds",
+      "originalPrice": "$10,900.00",
+      "salePrice": "327",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623657806-remote-i4l3e.png",
+        "/uploads/1777623660421-remote-8dm3kn.png"
+      ],
+      "createdAt": 1777623651924,
+      "category": "Bracelets",
+      "discount": -97
+    },
+    {
+      "id": "1777623614579",
+      "brandId": "louis-vuitton",
+      "name": "Le Damier de Louis Vuitton Small Bracelet, Yellow Gold and Diamonds",
+      "originalPrice": "$15,600.00",
+      "salePrice": "94",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623619436-remote-e1gzcq.png",
+        "/uploads/1777623622775-remote-p0bzl5.png"
+      ],
+      "createdAt": 1777623614579,
+      "category": "Bracelets"
+    },
+    {
+      "id": "1777623488073",
+      "brandId": "louis-vuitton",
+      "name": "Le Damier de Louis Vuitton Pendant, Yellow Gold and Diamonds",
+      "originalPrice": "$6,700.00",
+      "salePrice": "1,340",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623492627-remote-a9gisv.png",
+        "/uploads/1777623496177-remote-2gi6gm.png"
+      ],
+      "createdAt": 1777623488073,
+      "category": "Necklaces"
+    },
+    {
+      "id": "1777623333608",
+      "brandId": "louis-vuitton",
+      "name": "Le Damier de Louis Vuitton Medium Ring, Yellow Gold and Diamonds",
+      "originalPrice": "$7,600.00",
+      "salePrice": "1,520",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623339986-remote-l9n01n.png",
+        "/uploads/1777623342759-remote-yv6xv.png"
+      ],
+      "createdAt": 1777623333608,
+      "category": "Rings"
+    },
+    {
+      "id": "1777623226669",
+      "brandId": "louis-vuitton",
+      "name": "Blossom long earrings, 3 golds and diamonds",
+      "originalPrice": "$5,100.00",
+      "salePrice": "1,020",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623231100-remote-fywwms.png",
+        "/uploads/1777623234153-remote-sh8uov.png"
+      ],
+      "createdAt": 1777623226669,
+      "category": "Rings"
+    },
+    {
+      "id": "1777623115364",
+      "brandId": "louis-vuitton",
+      "name": "Le Damier de Louis Vuitton Small Ring, Rose Gold and Diamonds",
+      "originalPrice": "$4,600.00",
+      "salePrice": "920",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623121651-remote-a3tkr.png",
+        "/uploads/1777623123971-remote-qxcibu.png"
+      ],
+      "createdAt": 1777623115364,
+      "category": "Rings"
+    },
+    {
+      "id": "1777623082316",
+      "brandId": "louis-vuitton",
+      "name": "Le Damier de Louis Vuitton Small Hoops, Rose Gold and Diamonds",
+      "originalPrice": "$4,950.00",
+      "salePrice": "990",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623087967-remote-1mgkxj.png",
+        "/uploads/1777623090296-remote-kyutic.png"
+      ],
+      "createdAt": 1777623082316,
+      "category": "Earrings"
+    },
+    {
+      "id": "1777623041899",
+      "brandId": "louis-vuitton",
+      "name": "Idylle Blossom Pendant, Pink Gold And Diamonds",
+      "originalPrice": "$5,000.00",
+      "salePrice": "1,000",
+      "rating": 5,
+      "images": [
+        "/uploads/1777623046403-remote-knbfj8.png",
+        "/uploads/1777623050251-remote-2jvdrf.png"
+      ],
+      "createdAt": 1777623041899,
+      "category": "Necklaces"
+    },
+    {
+      "id": "1777622976721",
+      "brandId": "louis-vuitton",
+      "name": "Idylle Blossom Twist Bracelet, Pink Gold And Diamonds",
+      "originalPrice": "$7,750.00",
+      "salePrice": "1,550",
+      "rating": 5,
+      "images": [
+        "/uploads/1777622990380-remote-gx7ucr.png",
+        "/uploads/1777622995168-remote-wh7kjl.png"
+      ],
+      "createdAt": 1777622976721,
+      "category": "Bracelets"
+    },
+    {
+      "id": "1777622918496",
+      "brandId": "louis-vuitton",
+      "name": "Idylle Blossom Monogram Bracelet, Yellow Gold and Diamonds",
+      "originalPrice": "$7,450.00",
+      "salePrice": "1,490",
+      "rating": 5,
+      "images": [
+        "/uploads/1777622927247-remote-ekd0xw.png",
+        "/uploads/1777622930716-remote-c3yl8s.png"
+      ],
+      "createdAt": 1777622918496,
+      "category": "Bracelets"
+    },
+    {
+      "id": "1777621963420",
+      "brandId": "louis-vuitton",
+      "name": "Idylle Blossom Pendant, Yellow Gold And Diamonds",
+      "originalPrice": "$3,800.00",
+      "salePrice": "760",
+      "rating": 5,
+      "images": [
+        "/uploads/1777621968273-remote-3u1p57.png",
+        "/uploads/1777621971010-remote-do0dj4.png"
+      ],
+      "createdAt": 1777621963420,
+      "category": "Necklaces"
+    }
+  ]
+}
