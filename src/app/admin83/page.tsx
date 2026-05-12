@@ -53,47 +53,7 @@ export default function AdminPage() {
   const [data, setData] = useState<any>(null);
   const [searchTerm, setSearchTerm] = useState('');
   const [isSaving, setIsSaving] = useState(false);
-  const [editProduct, setEditProduct] = useState<any>(null);
-  const [isAddingProduct, setIsAddingProduct] = useState(false);
-  const [newProduct, setNewProduct] = useState<any>({
-    id: '', brandId: '', name: '', originalPrice: '1,000', salePrice: '400', discount: -60, rating: 5, images: ['', ''], createdAt: 0, category: 'Necklaces'
-  });
-  const [selectedProducts, setSelectedProducts] = useState<string[]>([]);
-  const [filterBrand, setFilterBrand] = useState('all');
-  const [filterCategory, setFilterCategory] = useState('all');
-  const [sortOrder, setSortOrder] = useState<SortOrder>('manual');
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-  const [passwordInput, setPasswordInput] = useState('');
-  const [pendingDeletions, setPendingDeletions] = useState<string[]>([]);
-  const [bulkDiscountValue, setBulkDiscountValue] = useState(60.00);
-  const [viewerImages, setViewerImages] = useState<string[]>([]);
-  const [viewerIndex, setViewerIndex] = useState(0);
-  const [viewerZoom, setViewerZoom] = useState(1);
-  const [importPreview, setImportPreview] = useState<any[] | null>(null);
-  const [importProgress, setImportProgress] = useState<{ currentIndex: number, savedIds: string[], failedCount: number }>({ currentIndex: -1, savedIds: [], failedCount: 0 });
-  const fileInputRef = useRef<HTMLInputElement>(null);
-
-  const displayedProducts = React.useMemo(() => {
-    return (data?.products || [])
-      .filter((p: any) => 
-        (p.name?.toLowerCase().includes(searchTerm.toLowerCase())) && 
-        (filterBrand === 'all' || p.brandId === filterBrand) &&
-        (filterCategory === 'all' || p.category === filterCategory)
-      )
-      .sort((a: any, b: any) => { 
-        if (sortOrder === 'manual') return 0;
-        if (sortOrder === 'newest') return (b.createdAt || 0) - (a.createdAt || 0); 
-        if (sortOrder === 'oldest') return (a.createdAt || 0) - (b.createdAt || 0); 
-        if (sortOrder === 'price-high') return parsePrice(b.salePrice) - parsePrice(a.salePrice); 
-        if (sortOrder === 'price-low') return parsePrice(a.salePrice) - parsePrice(b.salePrice); 
-        if (sortOrder === 'category') return (a.category || '').localeCompare(b.category || '');
-        return 0; 
-      });
-  }, [data, filterBrand, filterCategory, searchTerm, sortOrder]);
-
-  useEffect(() => {
-    loadData();
-  }, []);
+  const [isSyncing, setIsSyncing] = useState(false);
 
   const loadData = async () => {
     try {
@@ -106,6 +66,48 @@ export default function AdminPage() {
 
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 50;
+
+  const [filterBrand, setFilterBrand] = useState('all');
+  const [filterCategory, setFilterCategory] = useState('all');
+  const [sortOrder, setSortOrder] = useState<SortOrder>('manual');
+  const [selectedProducts, setSelectedProducts] = useState<string[]>([]);
+  const [bulkDiscountValue, setBulkDiscountValue] = useState(60);
+  const [pendingDeletions, setPendingDeletions] = useState<string[]>([]);
+  const [viewerImages, setViewerImages] = useState<string[]>([]);
+  const [viewerIndex, setViewerIndex] = useState(0);
+  const [viewerZoom, setViewerZoom] = useState(1);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [passwordInput, setPasswordInput] = useState('');
+  const [isAddingProduct, setIsAddingProduct] = useState(false);
+  const [newProduct, setNewProduct] = useState<any>(null);
+  const [editProduct, setEditProduct] = useState<any>(null);
+  const [importPreview, setImportPreview] = useState<any[] | null>(null);
+  const [importProgress, setImportProgress] = useState({ currentIndex: -1, savedIds: [], failedCount: 0 });
+  const fileInputRef = useRef<HTMLInputElement>(null);
+
+  // --- Filter & Sort Logic ---
+  const filteredProducts = (data?.products || []).filter((p: any) => {
+    const matchesSearch = p.name.toLowerCase().includes(searchTerm.toLowerCase());
+    const matchesBrand = filterBrand === 'all' || p.brandId === filterBrand;
+    const matchesCategory = filterCategory === 'all' || p.category === filterCategory;
+    return matchesSearch && matchesBrand && matchesCategory;
+  });
+
+  const displayedProducts = [...filteredProducts].sort((a, b) => {
+    if (sortOrder === 'newest') return (b.createdAt || 0) - (a.createdAt || 0);
+    if (sortOrder === 'oldest') return (a.createdAt || 0) - (b.createdAt || 0);
+    if (sortOrder === 'price-high') return parsePrice(b.salePrice) - parsePrice(a.salePrice);
+    if (sortOrder === 'price-low') return parsePrice(a.salePrice) - parsePrice(b.salePrice);
+    if (sortOrder === 'category') return (a.category || '').localeCompare(b.category || '');
+    return 0; // manual
+  });
+
+  const totalPages = Math.ceil(displayedProducts.length / itemsPerPage);
+  const startIndex = (currentPage - 1) * itemsPerPage;
+
+  useEffect(() => {
+    loadData();
+  }, []);
 
   useEffect(() => {
     setCurrentPage(1);
@@ -145,6 +147,29 @@ export default function AdminPage() {
       alert('保存失败，请检查连接。');
     }
     setIsSaving(false);
+  };
+
+  const handleSync = async () => {
+    if (isSyncing) return;
+    setIsSyncing(true);
+    try {
+      // First save if needed
+      const saveRes = await saveSiteContent(data);
+      if (!saveRes?.success) throw new Error('同步前保存数据失败');
+
+      const res = await fetch('/api/admin/sync', { method: 'POST' });
+      const result = await res.json();
+      
+      if (result.success) {
+        alert('同步成功！网站正在自动化更新，请在 2 分钟后查看线上效果。');
+      } else {
+        alert('同步失败: ' + result.error);
+      }
+    } catch (err: any) {
+      alert('同步过程中出现错误: ' + err.message);
+    } finally {
+      setIsSyncing(false);
+    }
   };
 
   const handleFileUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -318,20 +343,26 @@ export default function AdminPage() {
   };
 
   const updateSite = (key: string, val: any) => {
-    setData((prev: any) => ({ ...prev, site: { ...prev.site, [key]: val } }));
+    setData((prev: any) => {
+      if (!prev) return prev;
+      return { ...prev, site: { ...prev.site, [key]: val } };
+    });
   };
 
   const updateConversion = (layer: string, key: string, val: string) => {
-    setData((prev: any) => ({
-      ...prev,
-      site: {
-        ...prev.site,
-        conversion: {
-          ...prev.site.conversion,
-          [layer]: { ...prev.site.conversion[layer], [key]: val }
+    setData((prev: any) => {
+      if (!prev) return prev;
+      return {
+        ...prev,
+        site: {
+          ...prev.site,
+          conversion: {
+            ...prev.site.conversion,
+            [layer]: { ...prev.site.conversion[layer], [key]: val }
+          }
         }
-      }
-    }));
+      };
+    });
   };
 
   const moveProduct = (id: string, direction: 'up' | 'down' | 'top') => {
@@ -723,7 +754,7 @@ export default function AdminPage() {
         <div className="p-6 border-b border-zinc-800">
           <h1 className="text-white font-bold tracking-tighter text-xl uppercase">Admin Panel</h1>
         </div>
-        <div className="flex-1 py-4">
+        <div className="flex-1 py-4 overflow-y-auto scrollbar-hide">
           <SidebarItem id="site" label="网站设置" icon={Settings} />
           <SidebarItem id="content" label="营销文案" icon={Type} />
           <SidebarItem id="brands" label="品牌与页面" icon={Briefcase} />
@@ -732,9 +763,30 @@ export default function AdminPage() {
           <SidebarItem id="contacts" label="联系方式" icon={Phone} />
           <SidebarItem id="security" label="安全设置" icon={Shield} />
         </div>
-        <div className="p-4 border-t border-zinc-800 flex items-center justify-between">
-          <button onClick={handleSave} disabled={isSaving} className="bg-white text-black font-bold text-[10px] px-4 py-2 rounded uppercase tracking-widest hover:bg-zinc-200 transition-all flex items-center gap-2"><Save size={12} /> 保存</button>
-          <a href="/" className="text-zinc-500 hover:text-white"><LogOut size={18} /></a>
+        <div className="p-4 border-t border-zinc-800 flex flex-col gap-2">
+          <div className="flex items-center justify-between">
+            <button onClick={handleSave} disabled={isSaving} className="bg-zinc-800 text-white font-bold text-[10px] px-4 py-2 rounded uppercase tracking-widest hover:bg-zinc-700 transition-all flex items-center gap-2"><Save size={12} /> 保存</button>
+            <a href="/" className="text-zinc-500 hover:text-white"><LogOut size={18} /></a>
+          </div>
+          <button 
+            onClick={handleSync} 
+            disabled={isSyncing} 
+            className={cn(
+              "w-full bg-white text-black font-black text-[10px] px-4 py-2.5 rounded uppercase tracking-[0.2em] transition-all flex items-center justify-center gap-2 shadow-lg shadow-white/5",
+              isSyncing ? "opacity-50 cursor-not-allowed" : "hover:bg-zinc-200 active:scale-95"
+            )}
+          >
+            {isSyncing ? (
+              <>
+                <div className="w-3 h-3 border-2 border-black/20 border-t-black rounded-full animate-spin" />
+                正在同步...
+              </>
+            ) : (
+              <>
+                <Shield size={12} /> 同步至云端
+              </>
+            )}
+          </button>
         </div>
       </aside>
 
