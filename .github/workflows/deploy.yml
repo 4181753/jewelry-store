@@ -9,35 +9,37 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
-          cache: 'npm'
+          node-version: '20'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install and Build
+        run: |
+          npm install
+          npm run build
+        env:
+          NEXT_PUBLIC_BASE_URL: https://pro20y.com
 
-      - name: Build Next.js
-        run: npm run build
+      - name: Create Deployment Zip
+        run: |
+          # Zip everything needed for production (including hidden .next folder)
+          zip -r deploy.zip .next public src/data/site-content.json package.json package-lock.json next.config.ts tsconfig.json
 
-      - name: Deploy to Hostinger via SSH
+      - name: Upload Zip to Hostinger
         uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.SSH_HOST }}
           username: ${{ secrets.SSH_USER }}
           password: ${{ secrets.SSH_PASSWORD }}
           port: ${{ secrets.SSH_PORT }}
-          # Explicitly include the hidden .next folder
-          source: "., !node_modules, !.git"
+          source: "deploy.zip"
           target: "domains/pro20y.com/public_html"
-          strip_components: 0
           overwrite: true
 
-      - name: Server Side Refresh
+      - name: Extract and Restart
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.SSH_HOST }}
@@ -46,9 +48,13 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             cd domains/pro20y.com/public_html
-            # Just touch and restart, don't build on server to save RAM
+            # Unzip and overwrite
+            unzip -o deploy.zip
+            rm deploy.zip
+            # Force restart
             touch package.json
             pm2 restart all || npx pm2 restart all || pkill -f node || true
+
 
 
 
