@@ -32,7 +32,7 @@ jobs:
           password: ${{ secrets.SSH_PASSWORD }}
           port: ${{ secrets.SSH_PORT }}
           source: "*, !node_modules, !.git"
-          target: "/home/u779096633/domains/pro20y.com/public_html"
+          target: "domains/pro20y.com/public_html"
           strip_components: 0
           overwrite: true
 
@@ -44,15 +44,12 @@ jobs:
           password: ${{ secrets.SSH_PASSWORD }}
           port: ${{ secrets.SSH_PORT }}
           script: |
-            cd /home/u779096633/domains/pro20y.com/public_html
-            # Install and Build on server to ensure fresh data is baked in
+            # Use relative path from SSH home
+            cd domains/pro20y.com/public_html
             npm install --production || true
             npm run build || true
-            # Trigger Hostinger's auto-restart
             touch package.json
             pm2 restart all || true
-            # List files for verification
-            ls -la src/data/site-content.json
-            grep "30 Years" src/data/site-content.json || echo "Still 20?"
+
 
 
