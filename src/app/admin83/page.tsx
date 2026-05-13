@@ -165,14 +165,9 @@ export default function AdminPage() {
       };
       setData(updatedData);
       
-      // Save the updated data
-      const response = await fetch('/api/admin/save', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(updatedData),
-      });
-      
-      if (!response.ok) throw new Error('保存失败');
+      // Save the updated data using the Server Action
+      const saveResult = await saveSiteContent(updatedData);
+      if (!saveResult?.success) throw new Error(saveResult?.error || '保存失败');
 
       setSyncProgress(30);
       setSyncStatus('准备提交代码...');

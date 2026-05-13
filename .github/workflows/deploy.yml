@@ -49,7 +49,7 @@ jobs:
             npm install --production || true
             npm run build || true
             touch package.json
-            pm2 restart all || true
+            pm2 restart all || npx pm2 restart all || pkill -f node || true
 
 
 
