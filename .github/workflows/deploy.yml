@@ -31,12 +31,12 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           password: ${{ secrets.SSH_PASSWORD }}
           port: ${{ secrets.SSH_PORT }}
-          source: ".next/*, public/*, src/data/site-content.json, package.json, package-lock.json, next.config.ts, tsconfig.json"
+          source: "*, !node_modules, !.git"
           target: "/home/u779096633/domains/pro20y.com/public_html"
           strip_components: 0
           overwrite: true
 
-      - name: Restart Node Server
+      - name: Server Side Refresh
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.SSH_HOST }}
@@ -45,9 +45,14 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             cd /home/u779096633/domains/pro20y.com/public_html
-            # Try common Hostinger/PM2 restart commands
-            pm2 restart all || npx pm2 restart all || true
-            # Alternatively, if Hostinger uses a generic Node runner, 
-            # touch the entry point to trigger a reload if supported
+            # Install and Build on server to ensure fresh data is baked in
+            npm install --production || true
+            npm run build || true
+            # Trigger Hostinger's auto-restart
             touch package.json
+            pm2 restart all || true
+            # List files for verification
+            ls -la src/data/site-content.json
+            grep "30 Years" src/data/site-content.json || echo "Still 20?"
+
 
